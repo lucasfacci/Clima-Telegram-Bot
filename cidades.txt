@@ -1,0 +1,5570 @@
+acrelandia:1200013/ac
+assis brasil:1200054/ac
+brasileia:1200104/ac
+bujari:1200138/ac
+capixaba:1200179/ac
+cruzeiro do sul:1200203/ac
+epitaciolandia:1200252/ac
+feijo:1200302/ac
+jordao:1200328/ac
+mancio lima:1200336/ac
+manoel urbano:1200344/ac
+marechal thaumaturgo:1200351/ac
+placido de castro:1200385/ac
+porto acre:1200807/ac
+porto walter:1200393/ac
+rio branco:1200401/ac
+rodrigues alves:1200427/ac
+santa rosa do purus:1200435/ac
+sena madureira:1200500/ac
+senador guiomard:1200450/ac
+tarauaca:1200609/ac
+xapuri:1200708/ac
+agua branca:2700102/al
+anadia:2700201/al
+arapiraca:2700300/al
+atalaia:2700409/al
+barra de santo antonio:2700508/al
+barra de sao miguel:2700607/al
+batalha:2700706/al
+belem:2700805/al
+belo monte:2700904/al
+boca da mata:2701001/al
+branquinha:2701100/al
+cacimbinhas:2701209/al
+cajueiro:2701308/al
+campestre:2701357/al
+campo alegre:2701407/al
+campo grande:2701506/al
+canapi:2701605/al
+capela:2701704/al
+carneiros:2701803/al
+cha preta:2701902/al
+coite do noia:2702009/al
+colonia leopoldina:2702108/al
+coqueiro seco:2702207/al
+coruripe:2702306/al
+craibas:2702355/al
+delmiro gouveia:2702405/al
+dois riachos:2702504/al
+estrela de alagoas:2702553/al
+feira grande:2702603/al
+feliz deserto:2702702/al
+flexeiras:2702801/al
+girau do ponciano:2702900/al
+ibateguara:2703007/al
+igaci:2703106/al
+igreja nova:2703205/al
+inhapi:2703304/al
+jacare dos homens:2703403/al
+jacuipe:2703502/al
+japaratinga:2703601/al
+jaramataia:2703700/al
+jequia da praia:2703759/al
+joaquim gomes:2703809/al
+jundia:2703908/al
+junqueiro:2704005/al
+lagoa da canoa:2704104/al
+limoeiro de anadia:2704203/al
+maceio:2704302/al
+major isidoro:2704401/al
+mar vermelho:2704906/al
+maragogi:2704500/al
+maravilha:2704609/al
+marechal deodoro:2704708/al
+maribondo:2704807/al
+mata grande:2705002/al
+matriz de camaragibe:2705101/al
+messias:2705200/al
+minador do negrao:2705309/al
+monteiropolis:2705408/al
+murici:2705507/al
+novo lino:2705606/al
+olho d'agua grande:2705903/al
+olho d'agua das flores:2705705/al
+olho d'agua do casado:2705804/al
+olivenca:2706000/al
+ouro branco:2706109/al
+palestina:2706208/al
+palmeira dos indios:2706307/al
+pao de acucar:2706406/al
+pariconha:2706422/al
+paripueira:2706448/al
+passo de camaragibe:2706505/al
+paulo jacinto:2706604/al
+penedo:2706703/al
+piacabucu:2706802/al
+pilar:2706901/al
+pindoba:2707008/al
+piranhas:2707107/al
+poco das trincheiras:2707206/al
+porto calvo:2707305/al
+porto real do colegio:2707503/al
+porto de pedras:2707404/al
+quebrangulo:2707602/al
+rio largo:2707701/al
+roteiro:2707800/al
+santa luzia do norte:2707909/al
+santana do ipanema:2708006/al
+santana do mundau:2708105/al
+sao bras:2708204/al
+sao jose da laje:2708303/al
+sao jose da tapera:2708402/al
+sao luis do quitunde:2708501/al
+sao miguel dos campos:2708600/al
+sao miguel dos milagres:2708709/al
+sao sebastiao:2708808/al
+satuba:2708907/al
+senador rui palmeira:2708956/al
+tanque d'arca:2709004/al
+taquarana:2709103/al
+teotonio vilela:2709152/al
+traipu:2709202/al
+uniao dos palmares:2709301/al
+vicosa:2709400/al
+amapa:1600105/ap
+calcoene:1600204/ap
+cutias:1600212/ap
+ferreira gomes:1600238/ap
+itaubal:1600253/ap
+laranjal do jari:1600279/ap
+macapa:1600303/ap
+mazagao:1600402/ap
+oiapoque:1600501/ap
+pedra branca do amapari:1600154/ap
+porto grande:1600535/ap
+pracuuba:1600550/ap
+santana:1600600/ap
+serra do navio:1600055/ap
+tartarugalzinho:1600709/ap
+vitoria do jari:1600808/ap
+alvaraes:1300029/am
+amatura:1300060/am
+anama:1300086/am
+anori:1300102/am
+apui:1300144/am
+atalaia do norte:1300201/am
+autazes:1300300/am
+barcelos:1300409/am
+barreirinha:1300508/am
+benjamin constant:1300607/am
+beruri:1300631/am
+boa vista do ramos:1300680/am
+boca do acre:1300706/am
+borba:1300805/am
+caapiranga:1300839/am
+canutama:1300904/am
+carauari:1301001/am
+careiro:1301100/am
+careiro da varzea:1301159/am
+coari:1301209/am
+codajas:1301308/am
+eirunepe:1301407/am
+envira:1301506/am
+fonte boa:1301605/am
+guajara:1301654/am
+humaita:1301704/am
+ipixuna:1301803/am
+iranduba:1301852/am
+itacoatiara:1301902/am
+itamarati:1301951/am
+itapiranga:1302009/am
+japura:1302108/am
+jurua:1302207/am
+jutai:1302306/am
+labrea:1302405/am
+manacapuru:1302504/am
+manaquiri:1302553/am
+manaus:1302603/am
+manicore:1302702/am
+maraa:1302801/am
+maues:1302900/am
+nhamunda:1303007/am
+nova olinda do norte:1303106/am
+novo airao:1303205/am
+novo aripuana:1303304/am
+parintins:1303403/am
+pauini:1303502/am
+presidente figueiredo:1303536/am
+rio preto da eva:1303569/am
+santa isabel do rio negro:1303601/am
+santo antonio do ica:1303700/am
+sao gabriel da cachoeira:1303809/am
+sao paulo de olivenca:1303908/am
+sao sebastiao do uatuma:1303957/am
+silves:1304005/am
+tabatinga:1304062/am
+tapaua:1304104/am
+tefe:1304203/am
+tonantins:1304237/am
+uarini:1304260/am
+urucara:1304302/am
+urucurituba:1304401/am
+abaira:2900108/ba
+abare:2900207/ba
+acajutiba:2900306/ba
+adustina:2900355/ba
+agua fria:2900405/ba
+aiquara:2900603/ba
+alagoinhas:2900702/ba
+alcobaca:2900801/ba
+almadina:2900900/ba
+amargosa:2901007/ba
+amelia rodrigues:2901106/ba
+america dourada:2901155/ba
+anage:2901205/ba
+andarai:2901304/ba
+andorinha:2901353/ba
+angical:2901403/ba
+anguera:2901502/ba
+antas:2901601/ba
+antonio cardoso:2901700/ba
+antonio goncalves:2901809/ba
+apora:2901908/ba
+apuarema:2901957/ba
+aracas:2902054/ba
+aracatu:2902005/ba
+araci:2902104/ba
+aramari:2902203/ba
+arataca:2902252/ba
+aratuipe:2902302/ba
+aurelino leal:2902401/ba
+baianopolis:2902500/ba
+baixa grande:2902609/ba
+banzae:2902658/ba
+barra:2902708/ba
+barra da estiva:2902807/ba
+barra do choca:2902906/ba
+barra do mendes:2903003/ba
+barra do rocha:2903102/ba
+barreiras:2903201/ba
+barro alto:2903235/ba
+barro preto:2903300/ba
+barrocas:2903276/ba
+belmonte:2903409/ba
+belo campo:2903508/ba
+biritinga:2903607/ba
+boa nova:2903706/ba
+boa vista do tupim:2903805/ba
+bom jesus da lapa:2903904/ba
+bom jesus da serra:2903953/ba
+boninal:2904001/ba
+bonito:2904050/ba
+boquira:2904100/ba
+botupora:2904209/ba
+brejoes:2904308/ba
+brejolandia:2904407/ba
+brotas de macaubas:2904506/ba
+brumado:2904605/ba
+buerarema:2904704/ba
+buritirama:2904753/ba
+caatiba:2904803/ba
+cabaceiras do paraguacu:2904852/ba
+cachoeira:2904902/ba
+cacule:2905008/ba
+caem:2905107/ba
+caetanos:2905156/ba
+caetite:2905206/ba
+cafarnaum:2905305/ba
+cairu:2905404/ba
+caldeirao grande:2905503/ba
+camacan:2905602/ba
+camacari:2905701/ba
+camamu:2905800/ba
+campo alegre de lourdes:2905909/ba
+campo formoso:2906006/ba
+canapolis:2906105/ba
+canarana:2906204/ba
+canavieiras:2906303/ba
+candeal:2906402/ba
+candeias:2906501/ba
+candiba:2906600/ba
+candido sales:2906709/ba
+cansancao:2906808/ba
+canudos:2906824/ba
+capela do alto alegre:2906857/ba
+capim grosso:2906873/ba
+caraibas:2906899/ba
+caravelas:2906907/ba
+cardeal da silva:2907004/ba
+carinhanha:2907103/ba
+casa nova:2907202/ba
+castro alves:2907301/ba
+catolandia:2907400/ba
+catu:2907509/ba
+caturama:2907558/ba
+central:2907608/ba
+chorrocho:2907707/ba
+cicero dantas:2907806/ba
+cipo:2907905/ba
+coaraci:2908002/ba
+cocos:2908101/ba
+conceicao da feira:2908200/ba
+conceicao do almeida:2908309/ba
+conceicao do coite:2908408/ba
+conceicao do jacuipe:2908507/ba
+conde:2908606/ba
+condeuba:2908705/ba
+contendas do sincora:2908804/ba
+coracao de maria:2908903/ba
+cordeiros:2909000/ba
+coribe:2909109/ba
+coronel joao sa:2909208/ba
+correntina:2909307/ba
+cotegipe:2909406/ba
+cravolandia:2909505/ba
+crisopolis:2909604/ba
+cristopolis:2909703/ba
+cruz das almas:2909802/ba
+curaca:2909901/ba
+dario meira:2910008/ba
+dias d'avila:2910057/ba
+dom basilio:2910107/ba
+dom macedo costa:2910206/ba
+elisio medrado:2910305/ba
+encruzilhada:2910404/ba
+entre rios:2910503/ba
+erico cardoso:2900504/ba
+esplanada:2910602/ba
+euclides da cunha:2910701/ba
+eunapolis:2910727/ba
+fatima:2910750/ba
+feira da mata:2910776/ba
+feira de santana:2910800/ba
+filadelfia:2910859/ba
+firmino alves:2910909/ba
+floresta azul:2911006/ba
+formosa do rio preto:2911105/ba
+gandu:2911204/ba
+gaviao:2911253/ba
+gentio do ouro:2911303/ba
+gloria:2911402/ba
+gongogi:2911501/ba
+governador mangabeira:2911600/ba
+guajeru:2911659/ba
+guanambi:2911709/ba
+guaratinga:2911808/ba
+heliopolis:2911857/ba
+iacu:2911907/ba
+ibiassuce:2912004/ba
+ibicarai:2912103/ba
+ibicoara:2912202/ba
+ibicui:2912301/ba
+ibipeba:2912400/ba
+ibipitanga:2912509/ba
+ibiquera:2912608/ba
+ibirapitanga:2912707/ba
+ibirapua:2912806/ba
+ibirataia:2912905/ba
+ibitiara:2913002/ba
+ibitita:2913101/ba
+ibotirama:2913200/ba
+ichu:2913309/ba
+igapora:2913408/ba
+igrapiuna:2913457/ba
+iguai:2913507/ba
+ilheus:2913606/ba
+inhambupe:2913705/ba
+ipecaeta:2913804/ba
+ipiau:2913903/ba
+ipira:2914000/ba
+ipupiara:2914109/ba
+irajuba:2914208/ba
+iramaia:2914307/ba
+iraquara:2914406/ba
+irara:2914505/ba
+irece:2914604/ba
+itabela:2914653/ba
+itaberaba:2914703/ba
+itabuna:2914802/ba
+itacare:2914901/ba
+itaete:2915007/ba
+itagi:2915106/ba
+itagiba:2915205/ba
+itagimirim:2915304/ba
+itaguacu da bahia:2915353/ba
+itaju do colonia:2915403/ba
+itajuipe:2915502/ba
+itamaraju:2915601/ba
+itamari:2915700/ba
+itambe:2915809/ba
+itanagra:2915908/ba
+itanhem:2916005/ba
+itaparica:2916104/ba
+itape:2916203/ba
+itapebi:2916302/ba
+itapetinga:2916401/ba
+itapicuru:2916500/ba
+itapitanga:2916609/ba
+itaquara:2916708/ba
+itarantim:2916807/ba
+itatim:2916856/ba
+itirucu:2916906/ba
+itiuba:2917003/ba
+itororo:2917102/ba
+ituacu:2917201/ba
+itubera:2917300/ba
+iuiu:2917334/ba
+jaborandi:2917359/ba
+jacaraci:2917409/ba
+jacobina:2917508/ba
+jaguaquara:2917607/ba
+jaguarari:2917706/ba
+jaguaripe:2917805/ba
+jandaira:2917904/ba
+jequie:2918001/ba
+jeremoabo:2918100/ba
+jiquirica:2918209/ba
+jitauna:2918308/ba
+joao dourado:2918357/ba
+juazeiro:2918407/ba
+jucurucu:2918456/ba
+jussara:2918506/ba
+jussari:2918555/ba
+jussiape:2918605/ba
+lafaiete coutinho:2918704/ba
+lagoa real:2918753/ba
+laje:2918803/ba
+lajedao:2918902/ba
+lajedinho:2919009/ba
+lajedo do tabocal:2919058/ba
+lamarao:2919108/ba
+lapao:2919157/ba
+lauro de freitas:2919207/ba
+lencois:2919306/ba
+licinio de almeida:2919405/ba
+livramento de nossa senhora:2919504/ba
+luis eduardo magalhaes:2919553/ba
+macajuba:2919603/ba
+macarani:2919702/ba
+macaubas:2919801/ba
+macurure:2919900/ba
+madre de deus:2919926/ba
+maetinga:2919959/ba
+maiquinique:2920007/ba
+mairi:2920106/ba
+malhada:2920205/ba
+malhada de pedras:2920304/ba
+manoel vitorino:2920403/ba
+mansidao:2920452/ba
+maracas:2920502/ba
+maragogipe:2920601/ba
+marau:2920700/ba
+marcionilio souza:2920809/ba
+mascote:2920908/ba
+mata de sao joao:2921005/ba
+matina:2921054/ba
+medeiros neto:2921104/ba
+miguel calmon:2921203/ba
+milagres:2921302/ba
+mirangaba:2921401/ba
+mirante:2921450/ba
+monte santo:2921500/ba
+morpara:2921609/ba
+morro do chapeu:2921708/ba
+mortugaba:2921807/ba
+mucuge:2921906/ba
+mucuri:2922003/ba
+mulungu do morro:2922052/ba
+mundo novo:2922102/ba
+muniz ferreira:2922201/ba
+muquem do sao francisco:2922250/ba
+muritiba:2922300/ba
+mutuipe:2922409/ba
+nazare:2922508/ba
+nilo pecanha:2922607/ba
+nordestina:2922656/ba
+nova canaa:2922706/ba
+nova fatima:2922730/ba
+nova ibia:2922755/ba
+nova itarana:2922805/ba
+nova redencao:2922854/ba
+nova soure:2922904/ba
+nova vicosa:2923001/ba
+novo horizonte:2923035/ba
+novo triunfo:2923050/ba
+olindina:2923100/ba
+oliveira dos brejinhos:2923209/ba
+ouricangas:2923308/ba
+ourolandia:2923357/ba
+palmas de monte alto:2923407/ba
+palmeiras:2923506/ba
+paramirim:2923605/ba
+paratinga:2923704/ba
+paripiranga:2923803/ba
+pau brasil:2923902/ba
+paulo afonso:2924009/ba
+pe de serra:2924058/ba
+pedrao:2924108/ba
+pedro alexandre:2924207/ba
+piata:2924306/ba
+pilao arcado:2924405/ba
+pindai:2924504/ba
+pindobacu:2924603/ba
+pintadas:2924652/ba
+pirai do norte:2924678/ba
+piripa:2924702/ba
+piritiba:2924801/ba
+planaltino:2924900/ba
+planalto:2925006/ba
+pocoes:2925105/ba
+pojuca:2925204/ba
+ponto novo:2925253/ba
+porto seguro:2925303/ba
+potiragua:2925402/ba
+prado:2925501/ba
+presidente dutra:2925600/ba
+presidente janio quadros:2925709/ba
+presidente tancredo neves:2925758/ba
+queimadas:2925808/ba
+quijingue:2925907/ba
+quixabeira:2925931/ba
+rafael jambeiro:2925956/ba
+remanso:2926004/ba
+retirolandia:2926103/ba
+riachao das neves:2926202/ba
+riachao do jacuipe:2926301/ba
+riacho de santana:2926400/ba
+ribeira do amparo:2926509/ba
+ribeira do pombal:2926608/ba
+ribeirao do largo:2926657/ba
+rio real:2927002/ba
+rio de contas:2926707/ba
+rio do antonio:2926806/ba
+rio do pires:2926905/ba
+rodelas:2927101/ba
+ruy barbosa:2927200/ba
+salinas da margarida:2927309/ba
+salvador:2927408/ba
+santa barbara:2927507/ba
+santa brigida:2927606/ba
+santa cruz cabralia:2927705/ba
+santa cruz da vitoria:2927804/ba
+santa ines:2927903/ba
+santa luzia:2928059/ba
+santa maria da vitoria:2928109/ba
+santa rita de cassia:2928406/ba
+santa terezinha:2928505/ba
+santaluz:2928000/ba
+santana:2928208/ba
+santanopolis:2928307/ba
+santo amaro:2928604/ba
+santo antonio de jesus:2928703/ba
+santo estevao:2928802/ba
+sao desiderio:2928901/ba
+sao domingos:2928950/ba
+sao felipe:2929107/ba
+sao felix:2929008/ba
+sao felix do coribe:2929057/ba
+sao francisco do conde:2929206/ba
+sao gabriel:2929255/ba
+sao goncalo dos campos:2929305/ba
+sao jose da vitoria:2929354/ba
+sao jose do jacuipe:2929370/ba
+sao miguel das matas:2929404/ba
+sao sebastiao do passe:2929503/ba
+sapeacu:2929602/ba
+satiro dias:2929701/ba
+saubara:2929750/ba
+saude:2929800/ba
+seabra:2929909/ba
+sebastiao laranjeiras:2930006/ba
+senhor do bonfim:2930105/ba
+sento se:2930204/ba
+serra dourada:2930303/ba
+serra preta:2930402/ba
+serra do ramalho:2930154/ba
+serrinha:2930501/ba
+serrolandia:2930600/ba
+simoes filho:2930709/ba
+sitio do mato:2930758/ba
+sitio do quinto:2930766/ba
+sobradinho:2930774/ba
+souto soares:2930808/ba
+tabocas do brejo velho:2930907/ba
+tanhacu:2931004/ba
+tanque novo:2931053/ba
+tanquinho:2931103/ba
+taperoa:2931202/ba
+tapiramuta:2931301/ba
+teixeira de freitas:2931350/ba
+teodoro sampaio:2931400/ba
+teofilandia:2931509/ba
+teolandia:2931608/ba
+terra nova:2931707/ba
+tremedal:2931806/ba
+tucano:2931905/ba
+uaua:2932002/ba
+ubaira:2932101/ba
+ubaitaba:2932200/ba
+ubata:2932309/ba
+uibai:2932408/ba
+umburanas:2932457/ba
+una:2932507/ba
+urandi:2932606/ba
+urucuca:2932705/ba
+utinga:2932804/ba
+valenca:2932903/ba
+valente:2933000/ba
+varzea nova:2933158/ba
+varzea da roca:2933059/ba
+varzea do poco:2933109/ba
+varzedo:2933174/ba
+vera cruz:2933208/ba
+vereda:2933257/ba
+vitoria da conquista:2933307/ba
+wagner:2933406/ba
+wanderley:2933455/ba
+wenceslau guimaraes:2933505/ba
+xique-xique:2933604/ba
+abaiara:2300101/ce
+acarape:2300150/ce
+acarau:2300200/ce
+acopiara:2300309/ce
+aiuaba:2300408/ce
+alcantaras:2300507/ce
+altaneira:2300606/ce
+alto santo:2300705/ce
+amontada:2300754/ce
+antonina do norte:2300804/ce
+apuiares:2300903/ce
+aquiraz:2301000/ce
+aracati:2301109/ce
+aracoiaba:2301208/ce
+ararenda:2301257/ce
+araripe:2301307/ce
+aratuba:2301406/ce
+arneiroz:2301505/ce
+assare:2301604/ce
+aurora:2301703/ce
+baixio:2301802/ce
+banabuiu:2301851/ce
+barbalha:2301901/ce
+barreira:2301950/ce
+barro:2302008/ce
+barroquinha:2302057/ce
+baturite:2302107/ce
+beberibe:2302206/ce
+bela cruz:2302305/ce
+boa viagem:2302404/ce
+brejo santo:2302503/ce
+camocim:2302602/ce
+campos sales:2302701/ce
+caninde:2302800/ce
+capistrano:2302909/ce
+caridade:2303006/ce
+carire:2303105/ce
+caririacu:2303204/ce
+carius:2303303/ce
+carnaubal:2303402/ce
+cascavel:2303501/ce
+catarina:2303600/ce
+catunda:2303659/ce
+caucaia:2303709/ce
+cedro:2303808/ce
+chaval:2303907/ce
+choro:2303931/ce
+chorozinho:2303956/ce
+coreau:2304004/ce
+crateus:2304103/ce
+crato:2304202/ce
+croata:2304236/ce
+cruz:2304251/ce
+deputado irapuan pinheiro:2304269/ce
+erere:2304277/ce
+eusebio:2304285/ce
+farias brito:2304301/ce
+forquilha:2304350/ce
+fortaleza:2304400/ce
+fortim:2304459/ce
+frecheirinha:2304509/ce
+general sampaio:2304608/ce
+graca:2304657/ce
+granja:2304707/ce
+granjeiro:2304806/ce
+groairas:2304905/ce
+guaiuba:2304954/ce
+guaraciaba do norte:2305001/ce
+guaramiranga:2305100/ce
+hidrolandia:2305209/ce
+horizonte:2305233/ce
+ibaretama:2305266/ce
+ibiapina:2305308/ce
+ibicuitinga:2305332/ce
+icapui:2305357/ce
+ico:2305407/ce
+iguatu:2305506/ce
+independencia:2305605/ce
+ipaporanga:2305654/ce
+ipaumirim:2305704/ce
+ipu:2305803/ce
+ipueiras:2305902/ce
+iracema:2306009/ce
+iraucuba:2306108/ce
+itaicaba:2306207/ce
+itaitinga:2306256/ce
+itapaje:2306306/ce
+itapipoca:2306405/ce
+itapiuna:2306504/ce
+itarema:2306553/ce
+itatira:2306603/ce
+jaguaretama:2306702/ce
+jaguaribara:2306801/ce
+jaguaribe:2306900/ce
+jaguaruana:2307007/ce
+jardim:2307106/ce
+jati:2307205/ce
+jijoca de jericoacoara:2307254/ce
+juazeiro do norte:2307304/ce
+jucas:2307403/ce
+lavras da mangabeira:2307502/ce
+limoeiro do norte:2307601/ce
+madalena:2307635/ce
+maracanau:2307650/ce
+maranguape:2307700/ce
+marco:2307809/ce
+martinopole:2307908/ce
+massape:2308005/ce
+mauriti:2308104/ce
+meruoca:2308203/ce
+milagres:2308302/ce
+milha:2308351/ce
+miraima:2308377/ce
+missao velha:2308401/ce
+mombaca:2308500/ce
+monsenhor tabosa:2308609/ce
+morada nova:2308708/ce
+moraujo:2308807/ce
+morrinhos:2308906/ce
+mucambo:2309003/ce
+mulungu:2309102/ce
+nova olinda:2309201/ce
+nova russas:2309300/ce
+novo oriente:2309409/ce
+ocara:2309458/ce
+oros:2309508/ce
+pacajus:2309607/ce
+pacatuba:2309706/ce
+pacoti:2309805/ce
+pacuja:2309904/ce
+palhano:2310001/ce
+palmacia:2310100/ce
+paracuru:2310209/ce
+paraipaba:2310258/ce
+parambu:2310308/ce
+paramoti:2310407/ce
+pedra branca:2310506/ce
+penaforte:2310605/ce
+pentecoste:2310704/ce
+pereiro:2310803/ce
+pindoretama:2310852/ce
+piquet carneiro:2310902/ce
+pires ferreira:2310951/ce
+poranga:2311009/ce
+porteiras:2311108/ce
+potengi:2311207/ce
+potiretama:2311231/ce
+quiterianopolis:2311264/ce
+quixada:2311306/ce
+quixelo:2311355/ce
+quixeramobim:2311405/ce
+quixere:2311504/ce
+redencao:2311603/ce
+reriutaba:2311702/ce
+russas:2311801/ce
+saboeiro:2311900/ce
+salitre:2311959/ce
+santa quiteria:2312205/ce
+santana do acarau:2312007/ce
+santana do cariri:2312106/ce
+sao benedito:2312304/ce
+sao goncalo do amarante:2312403/ce
+sao joao do jaguaribe:2312502/ce
+sao luis do curu:2312601/ce
+senador pompeu:2312700/ce
+senador sa:2312809/ce
+sobral:2312908/ce
+solonopole:2313005/ce
+tabuleiro do norte:2313104/ce
+tamboril:2313203/ce
+tarrafas:2313252/ce
+taua:2313302/ce
+tejucuoca:2313351/ce
+tiangua:2313401/ce
+trairi:2313500/ce
+tururu:2313559/ce
+ubajara:2313609/ce
+umari:2313708/ce
+umirim:2313757/ce
+uruburetama:2313807/ce
+uruoca:2313906/ce
+varjota:2313955/ce
+varzea alegre:2314003/ce
+vicosa do ceara:2314102/ce
+brasilia:5300108/df
+afonso claudio:3200102/es
+agua doce do norte:3200169/es
+aguia branca:3200136/es
+alegre:3200201/es
+alfredo chaves:3200300/es
+alto rio novo:3200359/es
+anchieta:3200409/es
+apiaca:3200508/es
+aracruz:3200607/es
+atilio vivacqua:3200706/es
+baixo guandu:3200805/es
+barra de sao francisco:3200904/es
+boa esperanca:3201001/es
+bom jesus do norte:3201100/es
+brejetuba:3201159/es
+cachoeiro de itapemirim:3201209/es
+cariacica:3201308/es
+castelo:3201407/es
+colatina:3201506/es
+conceicao da barra:3201605/es
+conceicao do castelo:3201704/es
+divino de sao lourenco:3201803/es
+domingos martins:3201902/es
+dores do rio preto:3202009/es
+ecoporanga:3202108/es
+fundao:3202207/es
+governador lindenberg:3202256/es
+guacui:3202306/es
+guarapari:3202405/es
+ibatiba:3202454/es
+ibiracu:3202504/es
+ibitirama:3202553/es
+iconha:3202603/es
+irupi:3202652/es
+itaguacu:3202702/es
+itapemirim:3202801/es
+itarana:3202900/es
+iuna:3203007/es
+jaguare:3203056/es
+jeronimo monteiro:3203106/es
+joao neiva:3203130/es
+laranja da terra:3203163/es
+linhares:3203205/es
+mantenopolis:3203304/es
+marataizes:3203320/es
+marechal floriano:3203346/es
+marilandia:3203353/es
+mimoso do sul:3203403/es
+montanha:3203502/es
+mucurici:3203601/es
+muniz freire:3203700/es
+muqui:3203809/es
+nova venecia:3203908/es
+pancas:3204005/es
+pedro canario:3204054/es
+pinheiros:3204104/es
+piuma:3204203/es
+ponto belo:3204252/es
+presidente kennedy:3204302/es
+rio bananal:3204351/es
+rio novo do sul:3204401/es
+santa leopoldina:3204500/es
+santa maria de jetiba:3204559/es
+santa teresa:3204609/es
+sao domingos do norte:3204658/es
+sao gabriel da palha:3204708/es
+sao jose do calcado:3204807/es
+sao mateus:3204906/es
+sao roque do canaa:3204955/es
+serra:3205002/es
+sooretama:3205010/es
+vargem alta:3205036/es
+venda nova do imigrante:3205069/es
+viana:3205101/es
+vila pavao:3205150/es
+vila valerio:3205176/es
+vila velha:3205200/es
+vitoria:3205309/es
+abadia de goias:5200050/go
+abadiania:5200100/go
+acreuna:5200134/go
+adelandia:5200159/go
+agua fria de goias:5200175/go
+agua limpa:5200209/go
+aguas lindas de goias:5200258/go
+alexania:5200308/go
+aloandia:5200506/go
+alto horizonte:5200555/go
+alto paraiso de goias:5200605/go
+alvorada do norte:5200803/go
+amaralina:5200829/go
+americano do brasil:5200852/go
+amorinopolis:5200902/go
+anapolis:5201108/go
+anhanguera:5201207/go
+anicuns:5201306/go
+aparecida de goiania:5201405/go
+aparecida do rio doce:5201454/go
+apore:5201504/go
+aracu:5201603/go
+aragarcas:5201702/go
+aragoiania:5201801/go
+araguapaz:5202155/go
+arenopolis:5202353/go
+aruana:5202502/go
+aurilandia:5202601/go
+avelinopolis:5202809/go
+baliza:5203104/go
+barro alto:5203203/go
+bela vista de goias:5203302/go
+bom jardim de goias:5203401/go
+bom jesus de goias:5203500/go
+bonfinopolis:5203559/go
+bonopolis:5203575/go
+brazabrantes:5203609/go
+britania:5203807/go
+buriti alegre:5203906/go
+buriti de goias:5203939/go
+buritinopolis:5203962/go
+cabeceiras:5204003/go
+cachoeira alta:5204102/go
+cachoeira dourada:5204250/go
+cachoeira de goias:5204201/go
+cacu:5204300/go
+caiaponia:5204409/go
+caldas novas:5204508/go
+caldazinha:5204557/go
+campestre de goias:5204607/go
+campinacu:5204656/go
+campinorte:5204706/go
+campo alegre de goias:5204805/go
+campo limpo de goias:5204854/go
+campos belos:5204904/go
+campos verdes:5204953/go
+carmo do rio verde:5205000/go
+castelandia:5205059/go
+catalao:5205109/go
+caturai:5205208/go
+cavalcante:5205307/go
+ceres:5205406/go
+cezarina:5205455/go
+chapadao do ceu:5205471/go
+cidade ocidental:5205497/go
+cocalzinho de goias:5205513/go
+colinas do sul:5205521/go
+corrego do ouro:5205703/go
+corumba de goias:5205802/go
+corumbaiba:5205901/go
+cristalina:5206206/go
+cristianopolis:5206305/go
+crixas:5206404/go
+crominia:5206503/go
+cumari:5206602/go
+damianopolis:5206701/go
+damolandia:5206800/go
+davinopolis:5206909/go
+diorama:5207105/go
+divinopolis de goias:5208301/go
+doverlandia:5207253/go
+edealina:5207352/go
+edeia:5207402/go
+estrela do norte:5207501/go
+faina:5207535/go
+fazenda nova:5207600/go
+firminopolis:5207808/go
+flores de goias:5207907/go
+formosa:5208004/go
+formoso:5208103/go
+gameleira de goias:5208152/go
+goianapolis:5208400/go
+goiandira:5208509/go
+goianesia:5208608/go
+goiania:5208707/go
+goianira:5208806/go
+goias:5208905/go
+goiatuba:5209101/go
+gouvelandia:5209150/go
+guapo:5209200/go
+guaraita:5209291/go
+guarani de goias:5209408/go
+guarinos:5209457/go
+heitorai:5209606/go
+hidrolandia:5209705/go
+hidrolina:5209804/go
+iaciara:5209903/go
+inaciolandia:5209937/go
+indiara:5209952/go
+inhumas:5210000/go
+ipameri:5210109/go
+ipiranga de goias:5210158/go
+ipora:5210208/go
+israelandia:5210307/go
+itaberai:5210406/go
+itaguari:5210562/go
+itaguaru:5210604/go
+itaja:5210802/go
+itapaci:5210901/go
+itapirapua:5211008/go
+itapuranga:5211206/go
+itaruma:5211305/go
+itaucu:5211404/go
+itumbiara:5211503/go
+ivolandia:5211602/go
+jandaia:5211701/go
+jaragua:5211800/go
+jatai:5211909/go
+jaupaci:5212006/go
+jesupolis:5212055/go
+joviania:5212105/go
+jussara:5212204/go
+lagoa santa:5212253/go
+leopoldo de bulhoes:5212303/go
+luziania:5212501/go
+mairipotaba:5212600/go
+mambai:5212709/go
+mara rosa:5212808/go
+marzagao:5212907/go
+matrincha:5212956/go
+maurilandia:5213004/go
+mimoso de goias:5213053/go
+minacu:5213087/go
+mineiros:5213103/go
+moipora:5213400/go
+monte alegre de goias:5213509/go
+montes claros de goias:5213707/go
+montividiu:5213756/go
+montividiu do norte:5213772/go
+morrinhos:5213806/go
+morro agudo de goias:5213855/go
+mossamedes:5213905/go
+mozarlandia:5214002/go
+mundo novo:5214051/go
+mutunopolis:5214101/go
+nazario:5214408/go
+neropolis:5214507/go
+niquelandia:5214606/go
+nova america:5214705/go
+nova aurora:5214804/go
+nova crixas:5214838/go
+nova gloria:5214861/go
+nova iguacu de goias:5214879/go
+nova roma:5214903/go
+nova veneza:5215009/go
+novo brasil:5215207/go
+novo gama:5215231/go
+novo planalto:5215256/go
+orizona:5215306/go
+ouro verde de goias:5215405/go
+ouvidor:5215504/go
+padre bernardo:5215603/go
+palestina de goias:5215652/go
+palmeiras de goias:5215702/go
+palmelo:5215801/go
+palminopolis:5215900/go
+panama:5216007/go
+paranaiguara:5216304/go
+parauna:5216403/go
+perolandia:5216452/go
+petrolina de goias:5216809/go
+pilar de goias:5216908/go
+piracanjuba:5217104/go
+piranhas:5217203/go
+pirenopolis:5217302/go
+pires do rio:5217401/go
+planaltina:5217609/go
+pontalina:5217708/go
+porangatu:5218003/go
+porteirao:5218052/go
+portelandia:5218102/go
+posse:5218300/go
+professor jamil:5218391/go
+quirinopolis:5218508/go
+rialma:5218607/go
+rianapolis:5218706/go
+rio quente:5218789/go
+rio verde:5218805/go
+rubiataba:5218904/go
+sanclerlandia:5219001/go
+santa barbara de goias:5219100/go
+santa cruz de goias:5219209/go
+santa fe de goias:5219258/go
+santa helena de goias:5219308/go
+santa isabel:5219357/go
+santa rita do araguaia:5219407/go
+santa rita do novo destino:5219456/go
+santa rosa de goias:5219506/go
+santa tereza de goias:5219605/go
+santa terezinha de goias:5219704/go
+santo antonio da barra:5219712/go
+santo antonio de goias:5219738/go
+santo antonio do descoberto:5219753/go
+sao domingos:5219803/go
+sao francisco de goias:5219902/go
+sao joao d'alianca:5220009/go
+sao joao da parauna:5220058/go
+sao luis de montes belos:5220108/go
+sao luiz do norte:5220157/go
+sao miguel do araguaia:5220207/go
+sao miguel do passa quatro:5220264/go
+sao patricio:5220280/go
+sao simao:5220405/go
+senador canedo:5220454/go
+serranopolis:5220504/go
+silvania:5220603/go
+simolandia:5220686/go
+sitio d'abadia:5220702/go
+taquaral de goias:5221007/go
+teresina de goias:5221080/go
+terezopolis de goias:5221197/go
+tres ranchos:5221304/go
+trindade:5221403/go
+trombas:5221452/go
+turvania:5221502/go
+turvelandia:5221551/go
+uirapuru:5221577/go
+uruacu:5221601/go
+uruana:5221700/go
+urutai:5221809/go
+valparaiso de goias:5221858/go
+varjao:5221908/go
+vianopolis:5222005/go
+vicentinopolis:5222054/go
+vila boa:5222203/go
+vila propicio:5222302/go
+acailandia:2100055/ma
+afonso cunha:2100105/ma
+agua doce do maranhao:2100154/ma
+alcantara:2100204/ma
+aldeias altas:2100303/ma
+altamira do maranhao:2100402/ma
+alto alegre do maranhao:2100436/ma
+alto alegre do pindare:2100477/ma
+alto parnaiba:2100501/ma
+amapa do maranhao:2100550/ma
+amarante do maranhao:2100600/ma
+anajatuba:2100709/ma
+anapurus:2100808/ma
+apicum-acu:2100832/ma
+araguana:2100873/ma
+araioses:2100907/ma
+arame:2100956/ma
+arari:2101004/ma
+axixa:2101103/ma
+bacabal:2101202/ma
+bacabeira:2101251/ma
+bacuri:2101301/ma
+bacurituba:2101350/ma
+balsas:2101400/ma
+barao de grajau:2101509/ma
+barra do corda:2101608/ma
+barreirinhas:2101707/ma
+bela vista do maranhao:2101772/ma
+belagua:2101731/ma
+benedito leite:2101806/ma
+bequimao:2101905/ma
+bernardo do mearim:2101939/ma
+boa vista do gurupi:2101970/ma
+bom jardim:2102002/ma
+bom jesus das selvas:2102036/ma
+bom lugar:2102077/ma
+brejo:2102101/ma
+brejo de areia:2102150/ma
+buriti:2102200/ma
+buriti bravo:2102309/ma
+buriticupu:2102325/ma
+buritirana:2102358/ma
+cachoeira grande:2102374/ma
+cajapio:2102408/ma
+cajari:2102507/ma
+campestre do maranhao:2102556/ma
+candido mendes:2102606/ma
+cantanhede:2102705/ma
+capinzal do norte:2102754/ma
+carolina:2102804/ma
+carutapera:2102903/ma
+caxias:2103000/ma
+cedral:2103109/ma
+central do maranhao:2103125/ma
+centro novo do maranhao:2103174/ma
+centro do guilherme:2103158/ma
+chapadinha:2103208/ma
+cidelandia:2103257/ma
+codo:2103307/ma
+coelho neto:2103406/ma
+colinas:2103505/ma
+conceicao do lago-acu:2103554/ma
+coroata:2103604/ma
+cururupu:2103703/ma
+davinopolis:2103752/ma
+dom pedro:2103802/ma
+duque bacelar:2103901/ma
+esperantinopolis:2104008/ma
+estreito:2104057/ma
+feira nova do maranhao:2104073/ma
+fernando falcao:2104081/ma
+formosa da serra negra:2104099/ma
+fortaleza dos nogueiras:2104107/ma
+fortuna:2104206/ma
+godofredo viana:2104305/ma
+goncalves dias:2104404/ma
+governador archer:2104503/ma
+governador edison lobao:2104552/ma
+governador eugenio barros:2104602/ma
+governador luiz rocha:2104628/ma
+governador newton bello:2104651/ma
+governador nunes freire:2104677/ma
+graca aranha:2104701/ma
+grajau:2104800/ma
+guimaraes:2104909/ma
+humberto de campos:2105005/ma
+icatu:2105104/ma
+igarape grande:2105203/ma
+igarape do meio:2105153/ma
+imperatriz:2105302/ma
+itaipava do grajau:2105351/ma
+itapecuru mirim:2105401/ma
+itinga do maranhao:2105427/ma
+jatoba:2105450/ma
+jenipapo dos vieiras:2105476/ma
+joao lisboa:2105500/ma
+joselandia:2105609/ma
+junco do maranhao:2105658/ma
+lago verde:2105906/ma
+lago da pedra:2105708/ma
+lago do junco:2105807/ma
+lago dos rodrigues:2105948/ma
+lagoa grande do maranhao:2105963/ma
+lagoa do mato:2105922/ma
+lajeado novo:2105989/ma
+lima campos:2106003/ma
+loreto:2106102/ma
+luis domingues:2106201/ma
+magalhaes de almeida:2106300/ma
+maracacume:2106326/ma
+maraja do sena:2106359/ma
+maranhaozinho:2106375/ma
+mata roma:2106409/ma
+matinha:2106508/ma
+matoes:2106607/ma
+matoes do norte:2106631/ma
+milagres do maranhao:2106672/ma
+mirador:2106706/ma
+miranda do norte:2106755/ma
+mirinzal:2106805/ma
+moncao:2106904/ma
+montes altos:2107001/ma
+morros:2107100/ma
+nina rodrigues:2107209/ma
+nova colinas:2107258/ma
+nova iorque:2107308/ma
+nova olinda do maranhao:2107357/ma
+olho d'agua das cunhas:2107407/ma
+olinda nova do maranhao:2107456/ma
+paco do lumiar:2107506/ma
+palmeirandia:2107605/ma
+paraibano:2107704/ma
+parnarama:2107803/ma
+passagem franca:2107902/ma
+pastos bons:2108009/ma
+paulino neves:2108058/ma
+paulo ramos:2108108/ma
+pedreiras:2108207/ma
+pedro do rosario:2108256/ma
+penalva:2108306/ma
+peri mirim:2108405/ma
+peritoro:2108454/ma
+pindare-mirim:2108504/ma
+pinheiro:2108603/ma
+pio xii:2108702/ma
+pirapemas:2108801/ma
+pocao de pedras:2108900/ma
+porto franco:2109007/ma
+porto rico do maranhao:2109056/ma
+presidente dutra:2109106/ma
+presidente juscelino:2109205/ma
+presidente medici:2109239/ma
+presidente sarney:2109270/ma
+presidente vargas:2109304/ma
+primeira cruz:2109403/ma
+raposa:2109452/ma
+riachao:2109502/ma
+ribamar fiquene:2109551/ma
+rosario:2109601/ma
+sambaiba:2109700/ma
+santa filomena do maranhao:2109759/ma
+santa helena:2109809/ma
+santa ines:2109908/ma
+santa luzia:2110005/ma
+santa luzia do parua:2110039/ma
+santa quiteria do maranhao:2110104/ma
+santa rita:2110203/ma
+santana do maranhao:2110237/ma
+santo amaro do maranhao:2110278/ma
+santo antonio dos lopes:2110302/ma
+sao benedito do rio preto:2110401/ma
+sao bento:2110500/ma
+sao bernardo:2110609/ma
+sao domingos do azeitao:2110658/ma
+sao domingos do maranhao:2110708/ma
+sao felix de balsas:2110807/ma
+sao francisco do brejao:2110856/ma
+sao francisco do maranhao:2110906/ma
+sao joao batista:2111003/ma
+sao joao do caru:2111029/ma
+sao joao do paraiso:2111052/ma
+sao joao do soter:2111078/ma
+sao joao dos patos:2111102/ma
+sao jose de ribamar:2111201/ma
+sao jose dos basilios:2111250/ma
+sao luis:2111300/ma
+sao luis gonzaga do maranhao:2111409/ma
+sao mateus do maranhao:2111508/ma
+sao pedro da agua branca:2111532/ma
+sao pedro dos crentes:2111573/ma
+sao raimundo das mangabeiras:2111607/ma
+sao raimundo do doca bezerra:2111631/ma
+sao roberto:2111672/ma
+sao vicente ferrer:2111706/ma
+satubinha:2111722/ma
+senador alexandre costa:2111748/ma
+senador la rocque:2111763/ma
+serrano do maranhao:2111789/ma
+sitio novo:2111805/ma
+sucupira do norte:2111904/ma
+sucupira do riachao:2111953/ma
+tasso fragoso:2112001/ma
+timbiras:2112100/ma
+timon:2112209/ma
+trizidela do vale:2112233/ma
+tufilandia:2112274/ma
+tuntum:2112308/ma
+turiacu:2112407/ma
+turilandia:2112456/ma
+tutoia:2112506/ma
+urbano santos:2112605/ma
+vargem grande:2112704/ma
+viana:2112803/ma
+vila nova dos martirios:2112852/ma
+vitoria do mearim:2112902/ma
+vitorino freire:2113009/ma
+ze doca:2114007/ma
+acorizal:5100102/mt
+agua boa:5100201/mt
+alta floresta:5100250/mt
+alto araguaia:5100300/mt
+alto boa vista:5100359/mt
+alto garcas:5100409/mt
+alto paraguai:5100508/mt
+alto taquari:5100607/mt
+apiacas:5100805/mt
+araguaiana:5101001/mt
+araguainha:5101209/mt
+araputanga:5101258/mt
+arenapolis:5101308/mt
+aripuana:5101407/mt
+barao de melgaco:5101605/mt
+barra do bugres:5101704/mt
+barra do garcas:5101803/mt
+bom jesus do araguaia:5101852/mt
+brasnorte:5101902/mt
+caceres:5102504/mt
+campinapolis:5102603/mt
+campo novo do parecis:5102637/mt
+campo verde:5102678/mt
+campos de julio:5102686/mt
+canabrava do norte:5102694/mt
+canarana:5102702/mt
+carlinda:5102793/mt
+castanheira:5102850/mt
+chapada dos guimaraes:5103007/mt
+claudia:5103056/mt
+cocalinho:5103106/mt
+colider:5103205/mt
+colniza:5103254/mt
+comodoro:5103304/mt
+confresa:5103353/mt
+conquista d'oeste:5103361/mt
+cotriguacu:5103379/mt
+cuiaba:5103403/mt
+curvelandia:5103437/mt
+denise:5103452/mt
+diamantino:5103502/mt
+dom aquino:5103601/mt
+feliz natal:5103700/mt
+figueiropolis d'oeste:5103809/mt
+gaucha do norte:5103858/mt
+general carneiro:5103908/mt
+gloria d'oeste:5103957/mt
+guaranta do norte:5104104/mt
+guiratinga:5104203/mt
+indiavai:5104500/mt
+ipiranga do norte:5104526/mt
+itanhanga:5104542/mt
+itauba:5104559/mt
+itiquira:5104609/mt
+jaciara:5104807/mt
+jangada:5104906/mt
+jauru:5105002/mt
+juara:5105101/mt
+juina:5105150/mt
+juruena:5105176/mt
+juscimeira:5105200/mt
+lambari d'oeste:5105234/mt
+lucas do rio verde:5105259/mt
+luciara:5105309/mt
+marcelandia:5105580/mt
+matupa:5105606/mt
+mirassol d'oeste:5105622/mt
+nobres:5105903/mt
+nortelandia:5106000/mt
+nossa senhora do livramento:5106109/mt
+nova bandeirantes:5106158/mt
+nova brasilandia:5106208/mt
+nova canaa do norte:5106216/mt
+nova guarita:5108808/mt
+nova lacerda:5106182/mt
+nova marilandia:5108857/mt
+nova maringa:5108907/mt
+nova monte verde:5108956/mt
+nova mutum:5106224/mt
+nova nazare:5106174/mt
+nova olimpia:5106232/mt
+nova santa helena:5106190/mt
+nova ubirata:5106240/mt
+nova xavantina:5106257/mt
+novo horizonte do norte:5106273/mt
+novo mundo:5106265/mt
+novo santo antonio:5106315/mt
+novo sao joaquim:5106281/mt
+paranaita:5106299/mt
+paranatinga:5106307/mt
+pedra preta:5106372/mt
+peixoto de azevedo:5106422/mt
+planalto da serra:5106455/mt
+pocone:5106505/mt
+pontal do araguaia:5106653/mt
+ponte branca:5106703/mt
+pontes e lacerda:5106752/mt
+porto alegre do norte:5106778/mt
+porto esperidiao:5106828/mt
+porto estrela:5106851/mt
+porto dos gauchos:5106802/mt
+poxoreu:5107008/mt
+primavera do leste:5107040/mt
+querencia:5107065/mt
+reserva do cabacal:5107156/mt
+ribeirao cascalheira:5107180/mt
+ribeiraozinho:5107198/mt
+rio branco:5107206/mt
+rondolandia:5107578/mt
+rondonopolis:5107602/mt
+rosario oeste:5107701/mt
+salto do ceu:5107750/mt
+santa carmem:5107248/mt
+santa cruz do xingu:5107743/mt
+santa rita do trivelato:5107768/mt
+santa terezinha:5107776/mt
+santo afonso:5107263/mt
+santo antonio do leste:5107792/mt
+santo antonio do leverger:5107800/mt
+sao felix do araguaia:5107859/mt
+sao jose do povo:5107297/mt
+sao jose do rio claro:5107305/mt
+sao jose do xingu:5107354/mt
+sao jose dos quatro marcos:5107107/mt
+sao pedro da cipa:5107404/mt
+sapezal:5107875/mt
+serra nova dourada:5107883/mt
+sinop:5107909/mt
+sorriso:5107925/mt
+tabapora:5107941/mt
+tangara da serra:5107958/mt
+tapurah:5108006/mt
+terra nova do norte:5108055/mt
+tesouro:5108105/mt
+torixoreu:5108204/mt
+uniao do sul:5108303/mt
+vale de sao domingos:5108352/mt
+varzea grande:5108402/mt
+vera:5108501/mt
+vila bela da santissima trindade:5105507/mt
+vila rica:5108600/mt
+agua clara:5000203/ms
+alcinopolis:5000252/ms
+amambai:5000609/ms
+anastacio:5000708/ms
+anaurilandia:5000807/ms
+angelica:5000856/ms
+antonio joao:5000906/ms
+aparecida do taboado:5001003/ms
+aquidauana:5001102/ms
+aral moreira:5001243/ms
+bandeirantes:5001508/ms
+bataguassu:5001904/ms
+bataypora:5002001/ms
+bela vista:5002100/ms
+bodoquena:5002159/ms
+bonito:5002209/ms
+brasilandia:5002308/ms
+caarapo:5002407/ms
+camapua:5002605/ms
+campo grande:5002704/ms
+caracol:5002803/ms
+cassilandia:5002902/ms
+chapadao do sul:5002951/ms
+corguinho:5003108/ms
+coronel sapucaia:5003157/ms
+corumba:5003207/ms
+costa rica:5003256/ms
+coxim:5003306/ms
+deodapolis:5003454/ms
+dois irmaos do buriti:5003488/ms
+douradina:5003504/ms
+dourados:5003702/ms
+eldorado:5003751/ms
+fatima do sul:5003801/ms
+figueirao:5003900/ms
+gloria de dourados:5004007/ms
+guia lopes da laguna:5004106/ms
+iguatemi:5004304/ms
+inocencia:5004403/ms
+itapora:5004502/ms
+itaquirai:5004601/ms
+ivinhema:5004700/ms
+japora:5004809/ms
+jaraguari:5004908/ms
+jardim:5005004/ms
+jatei:5005103/ms
+juti:5005152/ms
+ladario:5005202/ms
+laguna carapa:5005251/ms
+maracaju:5005400/ms
+miranda:5005608/ms
+mundo novo:5005681/ms
+navirai:5005707/ms
+nioaque:5005806/ms
+nova alvorada do sul:5006002/ms
+nova andradina:5006200/ms
+novo horizonte do sul:5006259/ms
+paraiso das aguas:5006275/ms
+paranaiba:5006309/ms
+paranhos:5006358/ms
+pedro gomes:5006408/ms
+ponta pora:5006606/ms
+porto murtinho:5006903/ms
+ribas do rio pardo:5007109/ms
+rio brilhante:5007208/ms
+rio negro:5007307/ms
+rio verde de mato grosso:5007406/ms
+rochedo:5007505/ms
+santa rita do pardo:5007554/ms
+sao gabriel do oeste:5007695/ms
+selviria:5007802/ms
+sete quedas:5007703/ms
+sidrolandia:5007901/ms
+sonora:5007935/ms
+tacuru:5007950/ms
+taquarussu:5007976/ms
+terenos:5008008/ms
+tres lagoas:5008305/ms
+vicentina:5008404/ms
+abadia dos dourados:3100104/mg
+abaete:3100203/mg
+abre campo:3100302/mg
+acaiaca:3100401/mg
+acucena:3100500/mg
+agua boa:3100609/mg
+agua comprida:3100708/mg
+aguanil:3100807/mg
+aguas formosas:3100906/mg
+aguas vermelhas:3101003/mg
+aimores:3101102/mg
+aiuruoca:3101201/mg
+alagoa:3101300/mg
+albertina:3101409/mg
+alem paraiba:3101508/mg
+alfenas:3101607/mg
+alfredo vasconcelos:3101631/mg
+almenara:3101706/mg
+alpercata:3101805/mg
+alpinopolis:3101904/mg
+alterosa:3102001/mg
+alto caparao:3102050/mg
+alto jequitiba:3153509/mg
+alto rio doce:3102100/mg
+alvarenga:3102209/mg
+alvinopolis:3102308/mg
+alvorada de minas:3102407/mg
+amparo do serra:3102506/mg
+andradas:3102605/mg
+andrelandia:3102803/mg
+angelandia:3102852/mg
+antonio carlos:3102902/mg
+antonio dias:3103009/mg
+antonio prado de minas:3103108/mg
+aracai:3103207/mg
+aracitaba:3103306/mg
+aracuai:3103405/mg
+araguari:3103504/mg
+arantina:3103603/mg
+araponga:3103702/mg
+arapora:3103751/mg
+arapua:3103801/mg
+araujos:3103900/mg
+araxa:3104007/mg
+arceburgo:3104106/mg
+arcos:3104205/mg
+areado:3104304/mg
+argirita:3104403/mg
+aricanduva:3104452/mg
+arinos:3104502/mg
+astolfo dutra:3104601/mg
+ataleia:3104700/mg
+augusto de lima:3104809/mg
+baependi:3104908/mg
+baldim:3105004/mg
+bambui:3105103/mg
+bandeira:3105202/mg
+bandeira do sul:3105301/mg
+barao de cocais:3105400/mg
+barao de monte alto:3105509/mg
+barbacena:3105608/mg
+barra longa:3105707/mg
+barroso:3105905/mg
+bela vista de minas:3106002/mg
+belmiro braga:3106101/mg
+belo horizonte:3106200/mg
+belo oriente:3106309/mg
+belo vale:3106408/mg
+berilo:3106507/mg
+berizal:3106655/mg
+bertopolis:3106606/mg
+betim:3106705/mg
+bias fortes:3106804/mg
+bicas:3106903/mg
+biquinhas:3107000/mg
+boa esperanca:3107109/mg
+bocaina de minas:3107208/mg
+bocaiuva:3107307/mg
+bom despacho:3107406/mg
+bom jardim de minas:3107505/mg
+bom jesus da penha:3107604/mg
+bom jesus do amparo:3107703/mg
+bom jesus do galho:3107802/mg
+bom repouso:3107901/mg
+bom sucesso:3108008/mg
+bonfim:3108107/mg
+bonfinopolis de minas:3108206/mg
+bonito de minas:3108255/mg
+borda da mata:3108305/mg
+botelhos:3108404/mg
+botumirim:3108503/mg
+bras pires:3108701/mg
+brasilandia de minas:3108552/mg
+brasilia de minas:3108602/mg
+braunas:3108800/mg
+brazopolis:3108909/mg
+brumadinho:3109006/mg
+bueno brandao:3109105/mg
+buenopolis:3109204/mg
+bugre:3109253/mg
+buritis:3109303/mg
+buritizeiro:3109402/mg
+cabeceira grande:3109451/mg
+cabo verde:3109501/mg
+cachoeira dourada:3109808/mg
+cachoeira da prata:3109600/mg
+cachoeira de minas:3109709/mg
+cachoeira de pajeu:3102704/mg
+caetanopolis:3109907/mg
+caete:3110004/mg
+caiana:3110103/mg
+cajuri:3110202/mg
+caldas:3110301/mg
+camacho:3110400/mg
+camanducaia:3110509/mg
+cambui:3110608/mg
+cambuquira:3110707/mg
+campanario:3110806/mg
+campanha:3110905/mg
+campestre:3111002/mg
+campina verde:3111101/mg
+campo azul:3111150/mg
+campo belo:3111200/mg
+campo florido:3111408/mg
+campo do meio:3111309/mg
+campos altos:3111507/mg
+campos gerais:3111606/mg
+cana verde:3111903/mg
+canaa:3111705/mg
+canapolis:3111804/mg
+candeias:3112000/mg
+cantagalo:3112059/mg
+caparao:3112109/mg
+capela nova:3112208/mg
+capelinha:3112307/mg
+capetinga:3112406/mg
+capim branco:3112505/mg
+capinopolis:3112604/mg
+capitao andrade:3112653/mg
+capitao eneas:3112703/mg
+capitolio:3112802/mg
+caputira:3112901/mg
+carai:3113008/mg
+caranaiba:3113107/mg
+carandai:3113206/mg
+carangola:3113305/mg
+caratinga:3113404/mg
+carbonita:3113503/mg
+careacu:3113602/mg
+carlos chagas:3113701/mg
+carmesia:3113800/mg
+carmo da cachoeira:3113909/mg
+carmo da mata:3114006/mg
+carmo de minas:3114105/mg
+carmo do cajuru:3114204/mg
+carmo do paranaiba:3114303/mg
+carmo do rio claro:3114402/mg
+carmopolis de minas:3114501/mg
+carneirinho:3114550/mg
+carrancas:3114600/mg
+carvalhopolis:3114709/mg
+carvalhos:3114808/mg
+casa grande:3114907/mg
+cascalho rico:3115003/mg
+cassia:3115102/mg
+cataguases:3115300/mg
+catas altas:3115359/mg
+catas altas da noruega:3115409/mg
+catuji:3115458/mg
+catuti:3115474/mg
+caxambu:3115508/mg
+cedro do abaete:3115607/mg
+central de minas:3115706/mg
+centralina:3115805/mg
+chacara:3115904/mg
+chale:3116001/mg
+chapada gaucha:3116159/mg
+chapada do norte:3116100/mg
+chiador:3116209/mg
+cipotanea:3116308/mg
+claraval:3116407/mg
+claro dos pocoes:3116506/mg
+claudio:3116605/mg
+coimbra:3116704/mg
+coluna:3116803/mg
+comendador gomes:3116902/mg
+comercinho:3117009/mg
+conceicao da aparecida:3117108/mg
+conceicao da barra de minas:3115201/mg
+conceicao das alagoas:3117306/mg
+conceicao das pedras:3117207/mg
+conceicao de ipanema:3117405/mg
+conceicao do mato dentro:3117504/mg
+conceicao do para:3117603/mg
+conceicao do rio verde:3117702/mg
+conceicao dos ouros:3117801/mg
+conego marinho:3117836/mg
+confins:3117876/mg
+congonhal:3117900/mg
+congonhas:3118007/mg
+congonhas do norte:3118106/mg
+conquista:3118205/mg
+conselheiro lafaiete:3118304/mg
+conselheiro pena:3118403/mg
+consolacao:3118502/mg
+contagem:3118601/mg
+coqueiral:3118700/mg
+coracao de jesus:3118809/mg
+cordisburgo:3118908/mg
+cordislandia:3119005/mg
+corinto:3119104/mg
+coroaci:3119203/mg
+coromandel:3119302/mg
+coronel fabriciano:3119401/mg
+coronel murta:3119500/mg
+coronel pacheco:3119609/mg
+coronel xavier chaves:3119708/mg
+corrego danta:3119807/mg
+corrego fundo:3119955/mg
+corrego novo:3120003/mg
+corrego do bom jesus:3119906/mg
+couto de magalhaes de minas:3120102/mg
+crisolita:3120151/mg
+cristais:3120201/mg
+cristalia:3120300/mg
+cristiano otoni:3120409/mg
+cristina:3120508/mg
+crucilandia:3120607/mg
+cruzeiro da fortaleza:3120706/mg
+cruzilia:3120805/mg
+cuparaque:3120839/mg
+curral de dentro:3120870/mg
+curvelo:3120904/mg
+datas:3121001/mg
+delfim moreira:3121100/mg
+delfinopolis:3121209/mg
+delta:3121258/mg
+descoberto:3121308/mg
+desterro de entre rios:3121407/mg
+desterro do melo:3121506/mg
+diamantina:3121605/mg
+diogo de vasconcelos:3121704/mg
+dionisio:3121803/mg
+divinesia:3121902/mg
+divino:3122009/mg
+divino das laranjeiras:3122108/mg
+divinolandia de minas:3122207/mg
+divinopolis:3122306/mg
+divisa alegre:3122355/mg
+divisa nova:3122405/mg
+divisopolis:3122454/mg
+dom bosco:3122470/mg
+dom cavati:3122504/mg
+dom joaquim:3122603/mg
+dom silverio:3122702/mg
+dom vicoso:3122801/mg
+dona eusebia:3122900/mg
+dores de campos:3123007/mg
+dores de guanhaes:3123106/mg
+dores do indaia:3123205/mg
+dores do turvo:3123304/mg
+doresopolis:3123403/mg
+douradoquara:3123502/mg
+durande:3123528/mg
+eloi mendes:3123601/mg
+engenheiro caldas:3123700/mg
+engenheiro navarro:3123809/mg
+entre folhas:3123858/mg
+entre rios de minas:3123908/mg
+ervalia:3124005/mg
+esmeraldas:3124104/mg
+espera feliz:3124203/mg
+espinosa:3124302/mg
+espirito santo do dourado:3124401/mg
+estiva:3124500/mg
+estrela dalva:3124609/mg
+estrela do indaia:3124708/mg
+estrela do sul:3124807/mg
+eugenopolis:3124906/mg
+ewbank da camara:3125002/mg
+extrema:3125101/mg
+fama:3125200/mg
+faria lemos:3125309/mg
+felicio dos santos:3125408/mg
+felisburgo:3125606/mg
+felixlandia:3125705/mg
+fernandes tourinho:3125804/mg
+ferros:3125903/mg
+fervedouro:3125952/mg
+florestal:3126000/mg
+formiga:3126109/mg
+formoso:3126208/mg
+fortaleza de minas:3126307/mg
+fortuna de minas:3126406/mg
+francisco badaro:3126505/mg
+francisco dumont:3126604/mg
+francisco sa:3126703/mg
+franciscopolis:3126752/mg
+frei gaspar:3126802/mg
+frei inocencio:3126901/mg
+frei lagonegro:3126950/mg
+fronteira:3127008/mg
+fronteira dos vales:3127057/mg
+fruta de leite:3127073/mg
+frutal:3127107/mg
+funilandia:3127206/mg
+galileia:3127305/mg
+gameleiras:3127339/mg
+glaucilandia:3127354/mg
+goiabeira:3127370/mg
+goiana:3127388/mg
+goncalves:3127404/mg
+gonzaga:3127503/mg
+gouveia:3127602/mg
+governador valadares:3127701/mg
+grao mogol:3127800/mg
+grupiara:3127909/mg
+guanhaes:3128006/mg
+guape:3128105/mg
+guaraciaba:3128204/mg
+guaraciama:3128253/mg
+guaranesia:3128303/mg
+guarani:3128402/mg
+guarara:3128501/mg
+guarda-mor:3128600/mg
+guaxupe:3128709/mg
+guidoval:3128808/mg
+guimarania:3128907/mg
+guiricema:3129004/mg
+gurinhata:3129103/mg
+heliodora:3129202/mg
+iapu:3129301/mg
+ibertioga:3129400/mg
+ibia:3129509/mg
+ibiai:3129608/mg
+ibiracatu:3129657/mg
+ibiraci:3129707/mg
+ibirite:3129806/mg
+ibitiura de minas:3129905/mg
+ibituruna:3130002/mg
+icarai de minas:3130051/mg
+igarape:3130101/mg
+igaratinga:3130200/mg
+iguatama:3130309/mg
+ijaci:3130408/mg
+ilicinea:3130507/mg
+imbe de minas:3130556/mg
+inconfidentes:3130606/mg
+indaiabira:3130655/mg
+indianopolis:3130705/mg
+ingai:3130804/mg
+inhapim:3130903/mg
+inhauma:3131000/mg
+inimutaba:3131109/mg
+ipaba:3131158/mg
+ipanema:3131208/mg
+ipatinga:3131307/mg
+ipiacu:3131406/mg
+ipuiuna:3131505/mg
+irai de minas:3131604/mg
+itabira:3131703/mg
+itabirinha:3131802/mg
+itabirito:3131901/mg
+itacambira:3132008/mg
+itacarambi:3132107/mg
+itaguara:3132206/mg
+itaipe:3132305/mg
+itajuba:3132404/mg
+itamarandiba:3132503/mg
+itamarati de minas:3132602/mg
+itambacuri:3132701/mg
+itambe do mato dentro:3132800/mg
+itamogi:3132909/mg
+itamonte:3133006/mg
+itanhandu:3133105/mg
+itanhomi:3133204/mg
+itaobim:3133303/mg
+itapagipe:3133402/mg
+itapecerica:3133501/mg
+itapeva:3133600/mg
+itatiaiucu:3133709/mg
+itau de minas:3133758/mg
+itauna:3133808/mg
+itaverava:3133907/mg
+itinga:3134004/mg
+itueta:3134103/mg
+ituiutaba:3134202/mg
+itumirim:3134301/mg
+iturama:3134400/mg
+itutinga:3134509/mg
+jaboticatubas:3134608/mg
+jacinto:3134707/mg
+jacui:3134806/mg
+jacutinga:3134905/mg
+jaguaracu:3135001/mg
+jaiba:3135050/mg
+jampruca:3135076/mg
+janauba:3135100/mg
+januaria:3135209/mg
+japaraiba:3135308/mg
+japonvar:3135357/mg
+jeceaba:3135407/mg
+jenipapo de minas:3135456/mg
+jequeri:3135506/mg
+jequitai:3135605/mg
+jequitiba:3135704/mg
+jequitinhonha:3135803/mg
+jesuania:3135902/mg
+joaima:3136009/mg
+joanesia:3136108/mg
+joao monlevade:3136207/mg
+joao pinheiro:3136306/mg
+joaquim felicio:3136405/mg
+jordania:3136504/mg
+jose goncalves de minas:3136520/mg
+jose raydan:3136553/mg
+josenopolis:3136579/mg
+juatuba:3136652/mg
+juiz de fora:3136702/mg
+juramento:3136801/mg
+juruaia:3136900/mg
+juvenilia:3136959/mg
+ladainha:3137007/mg
+lagamar:3137106/mg
+lagoa dourada:3137403/mg
+lagoa formosa:3137502/mg
+lagoa grande:3137536/mg
+lagoa santa:3137601/mg
+lagoa da prata:3137205/mg
+lagoa dos patos:3137304/mg
+lajinha:3137700/mg
+lambari:3137809/mg
+lamim:3137908/mg
+laranjal:3138005/mg
+lassance:3138104/mg
+lavras:3138203/mg
+leandro ferreira:3138302/mg
+leme do prado:3138351/mg
+leopoldina:3138401/mg
+liberdade:3138500/mg
+lima duarte:3138609/mg
+limeira do oeste:3138625/mg
+lontra:3138658/mg
+luisburgo:3138674/mg
+luislandia:3138682/mg
+luminarias:3138708/mg
+luz:3138807/mg
+machacalis:3138906/mg
+machado:3139003/mg
+madre de deus de minas:3139102/mg
+malacacheta:3139201/mg
+mamonas:3139250/mg
+manga:3139300/mg
+manhuacu:3139409/mg
+manhumirim:3139508/mg
+mantena:3139607/mg
+mar de espanha:3139805/mg
+maravilhas:3139706/mg
+maria da fe:3139904/mg
+mariana:3140001/mg
+marilac:3140100/mg
+mario campos:3140159/mg
+maripa de minas:3140209/mg
+marlieria:3140308/mg
+marmelopolis:3140407/mg
+martinho campos:3140506/mg
+martins soares:3140530/mg
+mata verde:3140555/mg
+materlandia:3140605/mg
+mateus leme:3140704/mg
+mathias lobato:3171501/mg
+matias barbosa:3140803/mg
+matias cardoso:3140852/mg
+matipo:3140902/mg
+mato verde:3141009/mg
+matozinhos:3141108/mg
+matutina:3141207/mg
+medeiros:3141306/mg
+medina:3141405/mg
+mendes pimentel:3141504/mg
+merces:3141603/mg
+mesquita:3141702/mg
+minas novas:3141801/mg
+minduri:3141900/mg
+mirabela:3142007/mg
+miradouro:3142106/mg
+mirai:3142205/mg
+miravania:3142254/mg
+moeda:3142304/mg
+moema:3142403/mg
+monjolos:3142502/mg
+monsenhor paulo:3142601/mg
+montalvania:3142700/mg
+monte alegre de minas:3142809/mg
+monte azul:3142908/mg
+monte belo:3143005/mg
+monte carmelo:3143104/mg
+monte formoso:3143153/mg
+monte santo de minas:3143203/mg
+monte siao:3143401/mg
+montes claros:3143302/mg
+montezuma:3143450/mg
+morada nova de minas:3143500/mg
+morro da garca:3143609/mg
+morro do pilar:3143708/mg
+munhoz:3143807/mg
+muriae:3143906/mg
+mutum:3144003/mg
+muzambinho:3144102/mg
+nacip raydan:3144201/mg
+nanuque:3144300/mg
+naque:3144359/mg
+natalandia:3144375/mg
+natercia:3144409/mg
+nazareno:3144508/mg
+nepomuceno:3144607/mg
+ninheira:3144656/mg
+nova belem:3144672/mg
+nova era:3144706/mg
+nova lima:3144805/mg
+nova modica:3144904/mg
+nova ponte:3145000/mg
+nova porteirinha:3145059/mg
+nova resende:3145109/mg
+nova serrana:3145208/mg
+nova uniao:3136603/mg
+novo cruzeiro:3145307/mg
+novo oriente de minas:3145356/mg
+novorizonte:3145372/mg
+olaria:3145406/mg
+olhos-d'agua:3145455/mg
+olimpio noronha:3145505/mg
+oliveira:3145604/mg
+oliveira fortes:3145703/mg
+onca de pitangui:3145802/mg
+oratorios:3145851/mg
+orizania:3145877/mg
+ouro branco:3145901/mg
+ouro fino:3146008/mg
+ouro preto:3146107/mg
+ouro verde de minas:3146206/mg
+padre carvalho:3146255/mg
+padre paraiso:3146305/mg
+pai pedro:3146552/mg
+paineiras:3146404/mg
+pains:3146503/mg
+paiva:3146602/mg
+palma:3146701/mg
+palmopolis:3146750/mg
+papagaios:3146909/mg
+para de minas:3147105/mg
+paracatu:3147006/mg
+paraguacu:3147204/mg
+paraisopolis:3147303/mg
+paraopeba:3147402/mg
+passa quatro:3147600/mg
+passa tempo:3147709/mg
+passa vinte:3147808/mg
+passabem:3147501/mg
+passos:3147907/mg
+patis:3147956/mg
+patos de minas:3148004/mg
+patrocinio:3148103/mg
+patrocinio do muriae:3148202/mg
+paula candido:3148301/mg
+paulistas:3148400/mg
+pavao:3148509/mg
+pecanha:3148608/mg
+pedra azul:3148707/mg
+pedra bonita:3148756/mg
+pedra dourada:3149002/mg
+pedra do anta:3148806/mg
+pedra do indaia:3148905/mg
+pedralva:3149101/mg
+pedras de maria da cruz:3149150/mg
+pedrinopolis:3149200/mg
+pedro leopoldo:3149309/mg
+pedro teixeira:3149408/mg
+pequeri:3149507/mg
+pequi:3149606/mg
+perdigao:3149705/mg
+perdizes:3149804/mg
+perdoes:3149903/mg
+periquito:3149952/mg
+pescador:3150000/mg
+piau:3150109/mg
+piedade de caratinga:3150158/mg
+piedade de ponte nova:3150208/mg
+piedade do rio grande:3150307/mg
+piedade dos gerais:3150406/mg
+pimenta:3150505/mg
+pingo d'agua:3150539/mg
+pintopolis:3150570/mg
+piracema:3150604/mg
+pirajuba:3150703/mg
+piranga:3150802/mg
+pirangucu:3150901/mg
+piranguinho:3151008/mg
+pirapetinga:3151107/mg
+pirapora:3151206/mg
+pirauba:3151305/mg
+pitangui:3151404/mg
+piumhi:3151503/mg
+planura:3151602/mg
+poco fundo:3151701/mg
+pocos de caldas:3151800/mg
+pocrane:3151909/mg
+pompeu:3152006/mg
+ponte nova:3152105/mg
+ponto chique:3152131/mg
+ponto dos volantes:3152170/mg
+porteirinha:3152204/mg
+porto firme:3152303/mg
+pote:3152402/mg
+pouso alegre:3152501/mg
+pouso alto:3152600/mg
+prados:3152709/mg
+prata:3152808/mg
+pratapolis:3152907/mg
+pratinha:3153004/mg
+presidente bernardes:3153103/mg
+presidente juscelino:3153202/mg
+presidente kubitschek:3153301/mg
+presidente olegario:3153400/mg
+prudente de morais:3153608/mg
+quartel geral:3153707/mg
+queluzito:3153806/mg
+raposos:3153905/mg
+raul soares:3154002/mg
+recreio:3154101/mg
+reduto:3154150/mg
+resende costa:3154200/mg
+resplendor:3154309/mg
+ressaquinha:3154408/mg
+riachinho:3154457/mg
+riacho dos machados:3154507/mg
+ribeirao vermelho:3154705/mg
+ribeirao das neves:3154606/mg
+rio acima:3154804/mg
+rio casca:3154903/mg
+rio doce:3155009/mg
+rio espera:3155207/mg
+rio manso:3155306/mg
+rio novo:3155405/mg
+rio paranaiba:3155504/mg
+rio pardo de minas:3155603/mg
+rio piracicaba:3155702/mg
+rio pomba:3155801/mg
+rio preto:3155900/mg
+rio vermelho:3156007/mg
+rio do prado:3155108/mg
+ritapolis:3156106/mg
+rochedo de minas:3156205/mg
+rodeiro:3156304/mg
+romaria:3156403/mg
+rosario da limeira:3156452/mg
+rubelita:3156502/mg
+rubim:3156601/mg
+sabara:3156700/mg
+sabinopolis:3156809/mg
+sacramento:3156908/mg
+salinas:3157005/mg
+salto da divisa:3157104/mg
+santa barbara:3157203/mg
+santa barbara do leste:3157252/mg
+santa barbara do monte verde:3157278/mg
+santa barbara do tugurio:3157302/mg
+santa cruz de minas:3157336/mg
+santa cruz de salinas:3157377/mg
+santa cruz do escalvado:3157401/mg
+santa efigenia de minas:3157500/mg
+santa fe de minas:3157609/mg
+santa helena de minas:3157658/mg
+santa juliana:3157708/mg
+santa luzia:3157807/mg
+santa margarida:3157906/mg
+santa maria de itabira:3158003/mg
+santa maria do salto:3158102/mg
+santa maria do suacui:3158201/mg
+santa rita de caldas:3159209/mg
+santa rita de ibitipoca:3159407/mg
+santa rita de jacutinga:3159308/mg
+santa rita de minas:3159357/mg
+santa rita do itueto:3159506/mg
+santa rita do sapucai:3159605/mg
+santa rosa da serra:3159704/mg
+santa vitoria:3159803/mg
+santana da vargem:3158300/mg
+santana de cataguases:3158409/mg
+santana de pirapama:3158508/mg
+santana do deserto:3158607/mg
+santana do garambeu:3158706/mg
+santana do jacare:3158805/mg
+santana do manhuacu:3158904/mg
+santana do paraiso:3158953/mg
+santana do riacho:3159001/mg
+santana dos montes:3159100/mg
+santo antonio do amparo:3159902/mg
+santo antonio do aventureiro:3160009/mg
+santo antonio do grama:3160108/mg
+santo antonio do itambe:3160207/mg
+santo antonio do jacinto:3160306/mg
+santo antonio do monte:3160405/mg
+santo antonio do retiro:3160454/mg
+santo antonio do rio abaixo:3160504/mg
+santo hipolito:3160603/mg
+santos dumont:3160702/mg
+sao bento abade:3160801/mg
+sao bras do suacui:3160900/mg
+sao domingos das dores:3160959/mg
+sao domingos do prata:3161007/mg
+sao felix de minas:3161056/mg
+sao francisco:3161106/mg
+sao francisco de paula:3161205/mg
+sao francisco de sales:3161304/mg
+sao francisco do gloria:3161403/mg
+sao geraldo:3161502/mg
+sao geraldo da piedade:3161601/mg
+sao geraldo do baixio:3161650/mg
+sao goncalo do abaete:3161700/mg
+sao goncalo do para:3161809/mg
+sao goncalo do rio abaixo:3161908/mg
+sao goncalo do rio preto:3125507/mg
+sao goncalo do sapucai:3162005/mg
+sao gotardo:3162104/mg
+sao joao batista do gloria:3162203/mg
+sao joao evangelista:3162807/mg
+sao joao nepomuceno:3162906/mg
+sao joao da lagoa:3162252/mg
+sao joao da mata:3162302/mg
+sao joao da ponte:3162401/mg
+sao joao das missoes:3162450/mg
+sao joao del rei:3162500/mg
+sao joao do manhuacu:3162559/mg
+sao joao do manteninha:3162575/mg
+sao joao do oriente:3162609/mg
+sao joao do pacui:3162658/mg
+sao joao do paraiso:3162708/mg
+sao joaquim de bicas:3162922/mg
+sao jose da barra:3162948/mg
+sao jose da lapa:3162955/mg
+sao jose da safira:3163003/mg
+sao jose da varginha:3163102/mg
+sao jose do alegre:3163201/mg
+sao jose do divino:3163300/mg
+sao jose do goiabal:3163409/mg
+sao jose do jacuri:3163508/mg
+sao jose do mantimento:3163607/mg
+sao lourenco:3163706/mg
+sao miguel do anta:3163805/mg
+sao pedro da uniao:3163904/mg
+sao pedro do suacui:3164100/mg
+sao pedro dos ferros:3164001/mg
+sao romao:3164209/mg
+sao roque de minas:3164308/mg
+sao sebastiao da bela vista:3164407/mg
+sao sebastiao da vargem alegre:3164431/mg
+sao sebastiao do anta:3164472/mg
+sao sebastiao do maranhao:3164506/mg
+sao sebastiao do oeste:3164605/mg
+sao sebastiao do paraiso:3164704/mg
+sao sebastiao do rio preto:3164803/mg
+sao sebastiao do rio verde:3164902/mg
+sao thome das letras:3165206/mg
+sao tiago:3165008/mg
+sao tomas de aquino:3165107/mg
+sao vicente de minas:3165305/mg
+sapucai-mirim:3165404/mg
+sardoa:3165503/mg
+sarzedo:3165537/mg
+sem-peixe:3165560/mg
+senador amaral:3165578/mg
+senador cortes:3165602/mg
+senador firmino:3165701/mg
+senador jose bento:3165800/mg
+senador modestino goncalves:3165909/mg
+senhora de oliveira:3166006/mg
+senhora do porto:3166105/mg
+senhora dos remedios:3166204/mg
+sericita:3166303/mg
+seritinga:3166402/mg
+serra azul de minas:3166501/mg
+serra da saudade:3166600/mg
+serra do salitre:3166808/mg
+serra dos aimores:3166709/mg
+serrania:3166907/mg
+serranopolis de minas:3166956/mg
+serranos:3167004/mg
+serro:3167103/mg
+sete lagoas:3167202/mg
+setubinha:3165552/mg
+silveirania:3167301/mg
+silvianopolis:3167400/mg
+simao pereira:3167509/mg
+simonesia:3167608/mg
+sobralia:3167707/mg
+soledade de minas:3167806/mg
+tabuleiro:3167905/mg
+taiobeiras:3168002/mg
+taparuba:3168051/mg
+tapira:3168101/mg
+tapirai:3168200/mg
+taquaracu de minas:3168309/mg
+tarumirim:3168408/mg
+teixeiras:3168507/mg
+teofilo otoni:3168606/mg
+timoteo:3168705/mg
+tiradentes:3168804/mg
+tiros:3168903/mg
+tocantins:3169000/mg
+tocos do moji:3169059/mg
+toledo:3169109/mg
+tombos:3169208/mg
+tres coracoes:3169307/mg
+tres marias:3169356/mg
+tres pontas:3169406/mg
+tumiritinga:3169505/mg
+tupaciguara:3169604/mg
+turmalina:3169703/mg
+turvolandia:3169802/mg
+uba:3169901/mg
+ubai:3170008/mg
+ubaporanga:3170057/mg
+uberaba:3170107/mg
+uberlandia:3170206/mg
+umburatiba:3170305/mg
+unai:3170404/mg
+uniao de minas:3170438/mg
+uruana de minas:3170479/mg
+urucania:3170503/mg
+urucuia:3170529/mg
+vargem alegre:3170578/mg
+vargem bonita:3170602/mg
+vargem grande do rio pardo:3170651/mg
+varginha:3170701/mg
+varjao de minas:3170750/mg
+varzea da palma:3170800/mg
+varzelandia:3170909/mg
+vazante:3171006/mg
+verdelandia:3171030/mg
+veredinha:3171071/mg
+verissimo:3171105/mg
+vermelho novo:3171154/mg
+vespasiano:3171204/mg
+vicosa:3171303/mg
+vieiras:3171402/mg
+virgem da lapa:3171600/mg
+virginia:3171709/mg
+virginopolis:3171808/mg
+virgolandia:3171907/mg
+visconde do rio branco:3172004/mg
+volta grande:3172103/mg
+wenceslau braz:3172202/mg
+abaetetuba:1500107/pa
+abel figueiredo:1500131/pa
+acara:1500206/pa
+afua:1500305/pa
+agua azul do norte:1500347/pa
+alenquer:1500404/pa
+almeirim:1500503/pa
+altamira:1500602/pa
+anajas:1500701/pa
+ananindeua:1500800/pa
+anapu:1500859/pa
+augusto correa:1500909/pa
+aurora do para:1500958/pa
+aveiro:1501006/pa
+bagre:1501105/pa
+baiao:1501204/pa
+bannach:1501253/pa
+barcarena:1501303/pa
+belem:1501402/pa
+belterra:1501451/pa
+benevides:1501501/pa
+bom jesus do tocantins:1501576/pa
+bonito:1501600/pa
+braganca:1501709/pa
+brasil novo:1501725/pa
+brejo grande do araguaia:1501758/pa
+breu branco:1501782/pa
+breves:1501808/pa
+bujaru:1501907/pa
+cachoeira do arari:1502004/pa
+cachoeira do piria:1501956/pa
+cameta:1502103/pa
+canaa dos carajas:1502152/pa
+capanema:1502202/pa
+capitao poco:1502301/pa
+castanhal:1502400/pa
+chaves:1502509/pa
+colares:1502608/pa
+conceicao do araguaia:1502707/pa
+concordia do para:1502756/pa
+cumaru do norte:1502764/pa
+curionopolis:1502772/pa
+curralinho:1502806/pa
+curua:1502855/pa
+curuca:1502905/pa
+dom eliseu:1502939/pa
+eldorado do carajas:1502954/pa
+faro:1503002/pa
+floresta do araguaia:1503044/pa
+garrafao do norte:1503077/pa
+goianesia do para:1503093/pa
+gurupa:1503101/pa
+igarape-acu:1503200/pa
+igarape-miri:1503309/pa
+inhangapi:1503408/pa
+ipixuna do para:1503457/pa
+irituia:1503507/pa
+itaituba:1503606/pa
+itupiranga:1503705/pa
+jacareacanga:1503754/pa
+jacunda:1503804/pa
+juruti:1503903/pa
+limoeiro do ajuru:1504000/pa
+mae do rio:1504059/pa
+magalhaes barata:1504109/pa
+maraba:1504208/pa
+maracana:1504307/pa
+marapanim:1504406/pa
+marituba:1504422/pa
+medicilandia:1504455/pa
+melgaco:1504505/pa
+mocajuba:1504604/pa
+moju:1504703/pa
+mojui dos campos:1504752/pa
+monte alegre:1504802/pa
+muana:1504901/pa
+nova esperanca do piria:1504950/pa
+nova ipixuna:1504976/pa
+nova timboteua:1505007/pa
+novo progresso:1505031/pa
+novo repartimento:1505064/pa
+obidos:1505106/pa
+oeiras do para:1505205/pa
+oriximina:1505304/pa
+ourem:1505403/pa
+ourilandia do norte:1505437/pa
+pacaja:1505486/pa
+palestina do para:1505494/pa
+paragominas:1505502/pa
+parauapebas:1505536/pa
+pau d'arco:1505551/pa
+peixe-boi:1505601/pa
+picarra:1505635/pa
+placas:1505650/pa
+ponta de pedras:1505700/pa
+portel:1505809/pa
+porto de moz:1505908/pa
+prainha:1506005/pa
+primavera:1506104/pa
+quatipuru:1506112/pa
+redencao:1506138/pa
+rio maria:1506161/pa
+rondon do para:1506187/pa
+ruropolis:1506195/pa
+salinopolis:1506203/pa
+salvaterra:1506302/pa
+santa barbara do para:1506351/pa
+santa cruz do arari:1506401/pa
+santa izabel do para:1506500/pa
+santa luzia do para:1506559/pa
+santa maria das barreiras:1506583/pa
+santa maria do para:1506609/pa
+santana do araguaia:1506708/pa
+santarem:1506807/pa
+santarem novo:1506906/pa
+santo antonio do taua:1507003/pa
+sao caetano de odivelas:1507102/pa
+sao domingos do araguaia:1507151/pa
+sao domingos do capim:1507201/pa
+sao felix do xingu:1507300/pa
+sao francisco do para:1507409/pa
+sao geraldo do araguaia:1507458/pa
+sao joao da ponta:1507466/pa
+sao joao de pirabas:1507474/pa
+sao joao do araguaia:1507508/pa
+sao miguel do guama:1507607/pa
+sao sebastiao da boa vista:1507706/pa
+sapucaia:1507755/pa
+senador jose porfirio:1507805/pa
+soure:1507904/pa
+tailandia:1507953/pa
+terra alta:1507961/pa
+terra santa:1507979/pa
+tome-acu:1508001/pa
+tracuateua:1508035/pa
+trairao:1508050/pa
+tucuma:1508084/pa
+tucurui:1508100/pa
+ulianopolis:1508126/pa
+uruara:1508159/pa
+vigia:1508209/pa
+viseu:1508308/pa
+vitoria do xingu:1508357/pa
+xinguara:1508407/pa
+agua branca:2500106/pb
+aguiar:2500205/pb
+alagoa grande:2500304/pb
+alagoa nova:2500403/pb
+alagoinha:2500502/pb
+alcantil:2500536/pb
+algodao de jandaira:2500577/pb
+alhandra:2500601/pb
+amparo:2500734/pb
+aparecida:2500775/pb
+aracagi:2500809/pb
+arara:2500908/pb
+araruna:2501005/pb
+areia:2501104/pb
+areia de baraunas:2501153/pb
+areial:2501203/pb
+aroeiras:2501302/pb
+assuncao:2501351/pb
+baia da traicao:2501401/pb
+bananeiras:2501500/pb
+barauna:2501534/pb
+barra de santa rosa:2501609/pb
+barra de santana:2501575/pb
+barra de sao miguel:2501708/pb
+bayeux:2501807/pb
+belem:2501906/pb
+belem do brejo do cruz:2502003/pb
+bernardino batista:2502052/pb
+boa ventura:2502102/pb
+boa vista:2502151/pb
+bom jesus:2502201/pb
+bom sucesso:2502300/pb
+bonito de santa fe:2502409/pb
+boqueirao:2502508/pb
+borborema:2502706/pb
+brejo do cruz:2502805/pb
+brejo dos santos:2502904/pb
+caapora:2503001/pb
+cabaceiras:2503100/pb
+cabedelo:2503209/pb
+cachoeira dos indios:2503308/pb
+cacimba de areia:2503407/pb
+cacimba de dentro:2503506/pb
+cacimbas:2503555/pb
+caicara:2503605/pb
+cajazeiras:2503704/pb
+cajazeirinhas:2503753/pb
+caldas brandao:2503803/pb
+camalau:2503902/pb
+campina grande:2504009/pb
+capim:2504033/pb
+caraubas:2504074/pb
+carrapateira:2504108/pb
+casserengue:2504157/pb
+catingueira:2504207/pb
+catole do rocha:2504306/pb
+caturite:2504355/pb
+conceicao:2504405/pb
+condado:2504504/pb
+conde:2504603/pb
+congo:2504702/pb
+coremas:2504801/pb
+coxixola:2504850/pb
+cruz do espirito santo:2504900/pb
+cubati:2505006/pb
+cuite:2505105/pb
+cuite de mamanguape:2505238/pb
+cuitegi:2505204/pb
+curral velho:2505303/pb
+curral de cima:2505279/pb
+damiao:2505352/pb
+desterro:2505402/pb
+diamante:2505600/pb
+dona ines:2505709/pb
+duas estradas:2505808/pb
+emas:2505907/pb
+esperanca:2506004/pb
+fagundes:2506103/pb
+frei martinho:2506202/pb
+gado bravo:2506251/pb
+guarabira:2506301/pb
+gurinhem:2506400/pb
+gurjao:2506509/pb
+ibiara:2506608/pb
+igaracy:2502607/pb
+imaculada:2506707/pb
+inga:2506806/pb
+itabaiana:2506905/pb
+itaporanga:2507002/pb
+itapororoca:2507101/pb
+itatuba:2507200/pb
+jacarau:2507309/pb
+jerico:2507408/pb
+joao pessoa:2507507/pb
+joca claudino:2513653/pb
+juarez tavora:2507606/pb
+juazeirinho:2507705/pb
+junco do serido:2507804/pb
+juripiranga:2507903/pb
+juru:2508000/pb
+lagoa:2508109/pb
+lagoa seca:2508307/pb
+lagoa de dentro:2508208/pb
+lastro:2508406/pb
+livramento:2508505/pb
+logradouro:2508554/pb
+lucena:2508604/pb
+mae d'agua:2508703/pb
+malta:2508802/pb
+mamanguape:2508901/pb
+manaira:2509008/pb
+marcacao:2509057/pb
+mari:2509107/pb
+marizopolis:2509156/pb
+massaranduba:2509206/pb
+mataraca:2509305/pb
+matinhas:2509339/pb
+mato grosso:2509370/pb
+matureia:2509396/pb
+mogeiro:2509404/pb
+montadas:2509503/pb
+monte horebe:2509602/pb
+monteiro:2509701/pb
+mulungu:2509800/pb
+natuba:2509909/pb
+nazarezinho:2510006/pb
+nova floresta:2510105/pb
+nova olinda:2510204/pb
+nova palmeira:2510303/pb
+olho d'agua:2510402/pb
+olivedos:2510501/pb
+ouro velho:2510600/pb
+parari:2510659/pb
+passagem:2510709/pb
+patos:2510808/pb
+paulista:2510907/pb
+pedra branca:2511004/pb
+pedra lavrada:2511103/pb
+pedras de fogo:2511202/pb
+pedro regis:2512721/pb
+pianco:2511301/pb
+picui:2511400/pb
+pilar:2511509/pb
+piloes:2511608/pb
+piloezinhos:2511707/pb
+pirpirituba:2511806/pb
+pitimbu:2511905/pb
+pocinhos:2512002/pb
+poco dantas:2512036/pb
+poco de jose de moura:2512077/pb
+pombal:2512101/pb
+prata:2512200/pb
+princesa isabel:2512309/pb
+puxinana:2512408/pb
+queimadas:2512507/pb
+quixaba:2512606/pb
+remigio:2512705/pb
+riachao:2512747/pb
+riachao do bacamarte:2512754/pb
+riachao do poco:2512762/pb
+riacho de santo antonio:2512788/pb
+riacho dos cavalos:2512804/pb
+rio tinto:2512903/pb
+salgadinho:2513000/pb
+salgado de sao felix:2513109/pb
+santa cecilia:2513158/pb
+santa cruz:2513208/pb
+santa helena:2513307/pb
+santa ines:2513356/pb
+santa luzia:2513406/pb
+santa rita:2513703/pb
+santa teresinha:2513802/pb
+santana de mangueira:2513505/pb
+santana dos garrotes:2513604/pb
+santo andre:2513851/pb
+sao bentinho:2513927/pb
+sao bento:2513901/pb
+sao domingos:2513968/pb
+sao domingos do cariri:2513943/pb
+sao francisco:2513984/pb
+sao joao do cariri:2514008/pb
+sao joao do rio do peixe:2500700/pb
+sao joao do tigre:2514107/pb
+sao jose da lagoa tapada:2514206/pb
+sao jose de caiana:2514305/pb
+sao jose de espinharas:2514404/pb
+sao jose de piranhas:2514503/pb
+sao jose de princesa:2514552/pb
+sao jose do bonfim:2514602/pb
+sao jose do brejo do cruz:2514651/pb
+sao jose do sabugi:2514701/pb
+sao jose dos cordeiros:2514800/pb
+sao jose dos ramos:2514453/pb
+sao mamede:2514909/pb
+sao miguel de taipu:2515005/pb
+sao sebastiao de lagoa de roca:2515104/pb
+sao sebastiao do umbuzeiro:2515203/pb
+sao vicente do serido:2515401/pb
+sape:2515302/pb
+serra branca:2515500/pb
+serra grande:2515708/pb
+serra redonda:2515807/pb
+serra da raiz:2515609/pb
+serraria:2515906/pb
+sertaozinho:2515930/pb
+sobrado:2515971/pb
+solanea:2516003/pb
+soledade:2516102/pb
+sossego:2516151/pb
+sousa:2516201/pb
+sume:2516300/pb
+tacima:2516409/pb
+taperoa:2516508/pb
+tavares:2516607/pb
+teixeira:2516706/pb
+tenorio:2516755/pb
+triunfo:2516805/pb
+uirauna:2516904/pb
+umbuzeiro:2517001/pb
+varzea:2517100/pb
+vieiropolis:2517209/pb
+vista serrana:2505501/pb
+zabele:2517407/pb
+abatia:4100103/pr
+adrianopolis:4100202/pr
+agudos do sul:4100301/pr
+almirante tamandare:4100400/pr
+altamira do parana:4100459/pr
+alto paraiso:4128625/pr
+alto parana:4100608/pr
+alto piquiri:4100707/pr
+altonia:4100509/pr
+alvorada do sul:4100806/pr
+amapora:4100905/pr
+ampere:4101002/pr
+anahy:4101051/pr
+andira:4101101/pr
+angulo:4101150/pr
+antonina:4101200/pr
+antonio olinto:4101309/pr
+apucarana:4101408/pr
+arapongas:4101507/pr
+arapoti:4101606/pr
+arapua:4101655/pr
+araruna:4101705/pr
+araucaria:4101804/pr
+ariranha do ivai:4101853/pr
+assai:4101903/pr
+assis chateaubriand:4102000/pr
+astorga:4102109/pr
+atalaia:4102208/pr
+balsa nova:4102307/pr
+bandeirantes:4102406/pr
+barbosa ferraz:4102505/pr
+barra do jacare:4102703/pr
+barracao:4102604/pr
+bela vista da caroba:4102752/pr
+bela vista do paraiso:4102802/pr
+bituruna:4102901/pr
+boa esperanca:4103008/pr
+boa esperanca do iguacu:4103024/pr
+boa ventura de sao roque:4103040/pr
+boa vista da aparecida:4103057/pr
+bocaiuva do sul:4103107/pr
+bom jesus do sul:4103156/pr
+bom sucesso:4103206/pr
+bom sucesso do sul:4103222/pr
+borrazopolis:4103305/pr
+braganey:4103354/pr
+brasilandia do sul:4103370/pr
+cafeara:4103404/pr
+cafelandia:4103453/pr
+cafezal do sul:4103479/pr
+california:4103503/pr
+cambara:4103602/pr
+cambe:4103701/pr
+cambira:4103800/pr
+campina grande do sul:4104006/pr
+campina da lagoa:4103909/pr
+campina do simao:4103958/pr
+campo bonito:4104055/pr
+campo largo:4104204/pr
+campo magro:4104253/pr
+campo mourao:4104303/pr
+campo do tenente:4104105/pr
+candido de abreu:4104402/pr
+candoi:4104428/pr
+cantagalo:4104451/pr
+capanema:4104501/pr
+capitao leonidas marques:4104600/pr
+carambei:4104659/pr
+carlopolis:4104709/pr
+cascavel:4104808/pr
+castro:4104907/pr
+catanduvas:4105003/pr
+centenario do sul:4105102/pr
+cerro azul:4105201/pr
+ceu azul:4105300/pr
+chopinzinho:4105409/pr
+cianorte:4105508/pr
+cidade gaucha:4105607/pr
+clevelandia:4105706/pr
+colombo:4105805/pr
+colorado:4105904/pr
+congonhinhas:4106001/pr
+conselheiro mairinck:4106100/pr
+contenda:4106209/pr
+corbelia:4106308/pr
+cornelio procopio:4106407/pr
+coronel domingos soares:4106456/pr
+coronel vivida:4106506/pr
+corumbatai do sul:4106555/pr
+cruz machado:4106803/pr
+cruzeiro do iguacu:4106571/pr
+cruzeiro do oeste:4106605/pr
+cruzeiro do sul:4106704/pr
+cruzmaltina:4106852/pr
+curitiba:4106902/pr
+curiuva:4107009/pr
+diamante d'oeste:4107157/pr
+diamante do norte:4107108/pr
+diamante do sul:4107124/pr
+dois vizinhos:4107207/pr
+douradina:4107256/pr
+doutor camargo:4107306/pr
+doutor ulysses:4128633/pr
+eneas marques:4107405/pr
+engenheiro beltrao:4107504/pr
+entre rios do oeste:4107538/pr
+esperanca nova:4107520/pr
+espigao alto do iguacu:4107546/pr
+farol:4107553/pr
+faxinal:4107603/pr
+fazenda rio grande:4107652/pr
+fenix:4107702/pr
+fernandes pinheiro:4107736/pr
+figueira:4107751/pr
+flor da serra do sul:4107850/pr
+florai:4107801/pr
+floresta:4107900/pr
+florestopolis:4108007/pr
+florida:4108106/pr
+formosa do oeste:4108205/pr
+foz do iguacu:4108304/pr
+foz do jordao:4108452/pr
+francisco alves:4108320/pr
+francisco beltrao:4108403/pr
+general carneiro:4108502/pr
+godoy moreira:4108551/pr
+goioere:4108601/pr
+goioxim:4108650/pr
+grandes rios:4108700/pr
+guaira:4108809/pr
+guairaca:4108908/pr
+guamiranga:4108957/pr
+guapirama:4109005/pr
+guaporema:4109104/pr
+guaraci:4109203/pr
+guaraniacu:4109302/pr
+guarapuava:4109401/pr
+guaraquecaba:4109500/pr
+guaratuba:4109609/pr
+honorio serpa:4109658/pr
+ibaiti:4109708/pr
+ibema:4109757/pr
+ibipora:4109807/pr
+icaraima:4109906/pr
+iguaracu:4110003/pr
+iguatu:4110052/pr
+imbau:4110078/pr
+imbituva:4110102/pr
+inacio martins:4110201/pr
+inaja:4110300/pr
+indianopolis:4110409/pr
+ipiranga:4110508/pr
+ipora:4110607/pr
+iracema do oeste:4110656/pr
+irati:4110706/pr
+iretama:4110805/pr
+itaguaje:4110904/pr
+itaipulandia:4110953/pr
+itambaraca:4111001/pr
+itambe:4111100/pr
+itapejara d'oeste:4111209/pr
+itaperucu:4111258/pr
+itauna do sul:4111308/pr
+ivai:4111407/pr
+ivaipora:4111506/pr
+ivate:4111555/pr
+ivatuba:4111605/pr
+jaboti:4111704/pr
+jacarezinho:4111803/pr
+jaguapita:4111902/pr
+jaguariaiva:4112009/pr
+jandaia do sul:4112108/pr
+janiopolis:4112207/pr
+japira:4112306/pr
+japura:4112405/pr
+jardim alegre:4112504/pr
+jardim olinda:4112603/pr
+jataizinho:4112702/pr
+jesuitas:4112751/pr
+joaquim tavora:4112801/pr
+jundiai do sul:4112900/pr
+juranda:4112959/pr
+jussara:4113007/pr
+kalore:4113106/pr
+lapa:4113205/pr
+laranjal:4113254/pr
+laranjeiras do sul:4113304/pr
+leopolis:4113403/pr
+lidianopolis:4113429/pr
+lindoeste:4113452/pr
+loanda:4113502/pr
+lobato:4113601/pr
+londrina:4113700/pr
+luiziana:4113734/pr
+lunardelli:4113759/pr
+lupionopolis:4113809/pr
+mallet:4113908/pr
+mambore:4114005/pr
+mandaguacu:4114104/pr
+mandaguari:4114203/pr
+mandirituba:4114302/pr
+manfrinopolis:4114351/pr
+mangueirinha:4114401/pr
+manoel ribas:4114500/pr
+marechal candido rondon:4114609/pr
+maria helena:4114708/pr
+marialva:4114807/pr
+marilandia do sul:4114906/pr
+marilena:4115002/pr
+mariluz:4115101/pr
+maringa:4115200/pr
+mariopolis:4115309/pr
+maripa:4115358/pr
+marmeleiro:4115408/pr
+marquinho:4115457/pr
+marumbi:4115507/pr
+matelandia:4115606/pr
+matinhos:4115705/pr
+mato rico:4115739/pr
+maua da serra:4115754/pr
+medianeira:4115804/pr
+mercedes:4115853/pr
+mirador:4115903/pr
+miraselva:4116000/pr
+missal:4116059/pr
+moreira sales:4116109/pr
+morretes:4116208/pr
+munhoz de melo:4116307/pr
+nossa senhora das gracas:4116406/pr
+nova alianca do ivai:4116505/pr
+nova america da colina:4116604/pr
+nova aurora:4116703/pr
+nova cantu:4116802/pr
+nova esperanca:4116901/pr
+nova esperanca do sudoeste:4116950/pr
+nova fatima:4117008/pr
+nova laranjeiras:4117057/pr
+nova londrina:4117107/pr
+nova olimpia:4117206/pr
+nova prata do iguacu:4117255/pr
+nova santa barbara:4117214/pr
+nova santa rosa:4117222/pr
+nova tebas:4117271/pr
+novo itacolomi:4117297/pr
+ortigueira:4117305/pr
+ourizona:4117404/pr
+ouro verde do oeste:4117453/pr
+paicandu:4117503/pr
+palmas:4117602/pr
+palmeira:4117701/pr
+palmital:4117800/pr
+palotina:4117909/pr
+paraiso do norte:4118006/pr
+paranacity:4118105/pr
+paranagua:4118204/pr
+paranapoema:4118303/pr
+paranavai:4118402/pr
+pato bragado:4118451/pr
+pato branco:4118501/pr
+paula freitas:4118600/pr
+paulo frontin:4118709/pr
+peabiru:4118808/pr
+perobal:4118857/pr
+perola:4118907/pr
+perola d'oeste:4119004/pr
+pien:4119103/pr
+pinhais:4119152/pr
+pinhal de sao bento:4119251/pr
+pinhalao:4119202/pr
+pinhao:4119301/pr
+pirai do sul:4119400/pr
+piraquara:4119509/pr
+pitanga:4119608/pr
+pitangueiras:4119657/pr
+planaltina do parana:4119707/pr
+planalto:4119806/pr
+ponta grossa:4119905/pr
+pontal do parana:4119954/pr
+porecatu:4120002/pr
+porto amazonas:4120101/pr
+porto barreiro:4120150/pr
+porto rico:4120200/pr
+porto vitoria:4120309/pr
+prado ferreira:4120333/pr
+pranchita:4120358/pr
+presidente castelo branco:4120408/pr
+primeiro de maio:4120507/pr
+prudentopolis:4120606/pr
+quarto centenario:4120655/pr
+quatigua:4120705/pr
+quatro barras:4120804/pr
+quatro pontes:4120853/pr
+quedas do iguacu:4120903/pr
+querencia do norte:4121000/pr
+quinta do sol:4121109/pr
+quitandinha:4121208/pr
+ramilandia:4121257/pr
+rancho alegre:4121307/pr
+rancho alegre d'oeste:4121356/pr
+realeza:4121406/pr
+reboucas:4121505/pr
+renascenca:4121604/pr
+reserva:4121703/pr
+reserva do iguacu:4121752/pr
+ribeirao claro:4121802/pr
+ribeirao do pinhal:4121901/pr
+rio azul:4122008/pr
+rio bom:4122107/pr
+rio bonito do iguacu:4122156/pr
+rio branco do ivai:4122172/pr
+rio branco do sul:4122206/pr
+rio negro:4122305/pr
+rolandia:4122404/pr
+roncador:4122503/pr
+rondon:4122602/pr
+rosario do ivai:4122651/pr
+sabaudia:4122701/pr
+salgado filho:4122800/pr
+salto do itarare:4122909/pr
+salto do lontra:4123006/pr
+santa amelia:4123105/pr
+santa cecilia do pavao:4123204/pr
+santa cruz de monte castelo:4123303/pr
+santa fe:4123402/pr
+santa helena:4123501/pr
+santa ines:4123600/pr
+santa isabel do ivai:4123709/pr
+santa izabel do oeste:4123808/pr
+santa lucia:4123824/pr
+santa maria do oeste:4123857/pr
+santa mariana:4123907/pr
+santa monica:4123956/pr
+santa tereza do oeste:4124020/pr
+santa terezinha de itaipu:4124053/pr
+santana do itarare:4124004/pr
+santo antonio da platina:4124103/pr
+santo antonio do caiua:4124202/pr
+santo antonio do paraiso:4124301/pr
+santo antonio do sudoeste:4124400/pr
+santo inacio:4124509/pr
+sao carlos do ivai:4124608/pr
+sao jeronimo da serra:4124707/pr
+sao joao:4124806/pr
+sao joao do caiua:4124905/pr
+sao joao do ivai:4125001/pr
+sao joao do triunfo:4125100/pr
+sao jorge d'oeste:4125209/pr
+sao jorge do ivai:4125308/pr
+sao jorge do patrocinio:4125357/pr
+sao jose da boa vista:4125407/pr
+sao jose das palmeiras:4125456/pr
+sao jose dos pinhais:4125506/pr
+sao manoel do parana:4125555/pr
+sao mateus do sul:4125605/pr
+sao miguel do iguacu:4125704/pr
+sao pedro do iguacu:4125753/pr
+sao pedro do ivai:4125803/pr
+sao pedro do parana:4125902/pr
+sao sebastiao da amoreira:4126009/pr
+sao tome:4126108/pr
+sapopema:4126207/pr
+sarandi:4126256/pr
+saudade do iguacu:4126272/pr
+senges:4126306/pr
+serranopolis do iguacu:4126355/pr
+sertaneja:4126405/pr
+sertanopolis:4126504/pr
+siqueira campos:4126603/pr
+sulina:4126652/pr
+tamarana:4126678/pr
+tamboara:4126702/pr
+tapejara:4126801/pr
+tapira:4126900/pr
+teixeira soares:4127007/pr
+telemaco borba:4127106/pr
+terra boa:4127205/pr
+terra rica:4127304/pr
+terra roxa:4127403/pr
+tibagi:4127502/pr
+tijucas do sul:4127601/pr
+toledo:4127700/pr
+tomazina:4127809/pr
+tres barras do parana:4127858/pr
+tunas do parana:4127882/pr
+tuneiras do oeste:4127908/pr
+tupassi:4127957/pr
+turvo:4127965/pr
+ubirata:4128005/pr
+umuarama:4128104/pr
+uniao da vitoria:4128203/pr
+uniflor:4128302/pr
+urai:4128401/pr
+ventania:4128534/pr
+vera cruz do oeste:4128559/pr
+vere:4128609/pr
+virmond:4128658/pr
+vitorino:4128708/pr
+wenceslau braz:4128500/pr
+xambre:4128807/pr
+abreu e lima:2600054/pe
+afogados da ingazeira:2600104/pe
+afranio:2600203/pe
+agrestina:2600302/pe
+agua preta:2600401/pe
+aguas belas:2600500/pe
+alagoinha:2600609/pe
+alianca:2600708/pe
+altinho:2600807/pe
+amaraji:2600906/pe
+angelim:2601003/pe
+aracoiaba:2601052/pe
+araripina:2601102/pe
+arcoverde:2601201/pe
+barra de guabiraba:2601300/pe
+barreiros:2601409/pe
+belem de maria:2601508/pe
+belem do sao francisco:2601607/pe
+belo jardim:2601706/pe
+betania:2601805/pe
+bezerros:2601904/pe
+bodoco:2602001/pe
+bom conselho:2602100/pe
+bom jardim:2602209/pe
+bonito:2602308/pe
+brejao:2602407/pe
+brejinho:2602506/pe
+brejo da madre de deus:2602605/pe
+buenos aires:2602704/pe
+buique:2602803/pe
+cabo de santo agostinho:2602902/pe
+cabrobo:2603009/pe
+cachoeirinha:2603108/pe
+caetes:2603207/pe
+calcado:2603306/pe
+calumbi:2603405/pe
+camaragibe:2603454/pe
+camocim de sao felix:2603504/pe
+camutanga:2603603/pe
+canhotinho:2603702/pe
+capoeiras:2603801/pe
+carnaiba:2603900/pe
+carnaubeira da penha:2603926/pe
+carpina:2604007/pe
+caruaru:2604106/pe
+casinhas:2604155/pe
+catende:2604205/pe
+cedro:2604304/pe
+cha grande:2604502/pe
+cha de alegria:2604403/pe
+condado:2604601/pe
+correntes:2604700/pe
+cortes:2604809/pe
+cumaru:2604908/pe
+cupira:2605004/pe
+custodia:2605103/pe
+dormentes:2605152/pe
+escada:2605202/pe
+exu:2605301/pe
+feira nova:2605400/pe
+fernando de noronha:2605459/pe
+ferreiros:2605509/pe
+flores:2605608/pe
+floresta:2605707/pe
+frei miguelinho:2605806/pe
+gameleira:2605905/pe
+garanhuns:2606002/pe
+gloria do goita:2606101/pe
+goiana:2606200/pe
+granito:2606309/pe
+gravata:2606408/pe
+iati:2606507/pe
+ibimirim:2606606/pe
+ibirajuba:2606705/pe
+igarassu:2606804/pe
+iguaracy:2606903/pe
+ilha de itamaraca:2607604/pe
+inaja:2607000/pe
+ingazeira:2607109/pe
+ipojuca:2607208/pe
+ipubi:2607307/pe
+itacuruba:2607406/pe
+itaiba:2607505/pe
+itambe:2607653/pe
+itapetim:2607703/pe
+itapissuma:2607752/pe
+itaquitinga:2607802/pe
+jaboatao dos guararapes:2607901/pe
+jaqueira:2607950/pe
+jatauba:2608008/pe
+jatoba:2608057/pe
+joao alfredo:2608107/pe
+joaquim nabuco:2608206/pe
+jucati:2608255/pe
+jupi:2608305/pe
+jurema:2608404/pe
+lagoa grande:2608750/pe
+lagoa de itaenga:2608503/pe
+lagoa do carro:2608453/pe
+lagoa do ouro:2608602/pe
+lagoa dos gatos:2608701/pe
+lajedo:2608800/pe
+limoeiro:2608909/pe
+macaparana:2609006/pe
+machados:2609105/pe
+manari:2609154/pe
+maraial:2609204/pe
+mirandiba:2609303/pe
+moreilandia:2614303/pe
+moreno:2609402/pe
+nazare da mata:2609501/pe
+olinda:2609600/pe
+orobo:2609709/pe
+oroco:2609808/pe
+ouricuri:2609907/pe
+palmares:2610004/pe
+palmeirina:2610103/pe
+panelas:2610202/pe
+paranatama:2610301/pe
+parnamirim:2610400/pe
+passira:2610509/pe
+paudalho:2610608/pe
+paulista:2610707/pe
+pedra:2610806/pe
+pesqueira:2610905/pe
+petrolandia:2611002/pe
+petrolina:2611101/pe
+pocao:2611200/pe
+pombos:2611309/pe
+primavera:2611408/pe
+quipapa:2611507/pe
+quixaba:2611533/pe
+recife:2611606/pe
+riacho das almas:2611705/pe
+ribeirao:2611804/pe
+rio formoso:2611903/pe
+saire:2612000/pe
+salgadinho:2612109/pe
+salgueiro:2612208/pe
+saloa:2612307/pe
+sanharo:2612406/pe
+santa cruz:2612455/pe
+santa cruz da baixa verde:2612471/pe
+santa cruz do capibaribe:2612505/pe
+santa filomena:2612554/pe
+santa maria da boa vista:2612604/pe
+santa maria do cambuca:2612703/pe
+santa terezinha:2612802/pe
+sao benedito do sul:2612901/pe
+sao bento do una:2613008/pe
+sao caitano:2613107/pe
+sao joao:2613206/pe
+sao joaquim do monte:2613305/pe
+sao jose da coroa grande:2613404/pe
+sao jose do belmonte:2613503/pe
+sao jose do egito:2613602/pe
+sao lourenco da mata:2613701/pe
+sao vicente ferrer:2613800/pe
+serra talhada:2613909/pe
+serrita:2614006/pe
+sertania:2614105/pe
+sirinhaem:2614204/pe
+solidao:2614402/pe
+surubim:2614501/pe
+tabira:2614600/pe
+tacaimbo:2614709/pe
+tacaratu:2614808/pe
+tamandare:2614857/pe
+taquaritinga do norte:2615003/pe
+terezinha:2615102/pe
+terra nova:2615201/pe
+timbauba:2615300/pe
+toritama:2615409/pe
+tracunhaem:2615508/pe
+trindade:2615607/pe
+triunfo:2615706/pe
+tupanatinga:2615805/pe
+tuparetama:2615904/pe
+venturosa:2616001/pe
+verdejante:2616100/pe
+vertente do lerio:2616183/pe
+vertentes:2616209/pe
+vicencia:2616308/pe
+vitoria de santo antao:2616407/pe
+xexeu:2616506/pe
+acaua:2200053/pi
+agricolandia:2200103/pi
+agua branca:2200202/pi
+alagoinha do piaui:2200251/pi
+alegrete do piaui:2200277/pi
+alto longa:2200301/pi
+altos:2200400/pi
+alvorada do gurgueia:2200459/pi
+amarante:2200509/pi
+angical do piaui:2200608/pi
+anisio de abreu:2200707/pi
+antonio almeida:2200806/pi
+aroazes:2200905/pi
+aroeiras do itaim:2200954/pi
+arraial:2201002/pi
+assuncao do piaui:2201051/pi
+avelino lopes:2201101/pi
+baixa grande do ribeiro:2201150/pi
+barra d'alcantara:2201176/pi
+barras:2201200/pi
+barreiras do piaui:2201309/pi
+barro duro:2201408/pi
+batalha:2201507/pi
+bela vista do piaui:2201556/pi
+belem do piaui:2201572/pi
+beneditinos:2201606/pi
+bertolinia:2201705/pi
+betania do piaui:2201739/pi
+boa hora:2201770/pi
+bocaina:2201804/pi
+bom jesus:2201903/pi
+bom principio do piaui:2201919/pi
+bonfim do piaui:2201929/pi
+boqueirao do piaui:2201945/pi
+brasileira:2201960/pi
+brejo do piaui:2201988/pi
+buriti dos lopes:2202000/pi
+buriti dos montes:2202026/pi
+cabeceiras do piaui:2202059/pi
+cajazeiras do piaui:2202075/pi
+cajueiro da praia:2202083/pi
+caldeirao grande do piaui:2202091/pi
+campinas do piaui:2202109/pi
+campo alegre do fidalgo:2202117/pi
+campo grande do piaui:2202133/pi
+campo largo do piaui:2202174/pi
+campo maior:2202208/pi
+canavieira:2202251/pi
+canto do buriti:2202307/pi
+capitao gervasio oliveira:2202455/pi
+capitao de campos:2202406/pi
+caracol:2202505/pi
+caraubas do piaui:2202539/pi
+caridade do piaui:2202554/pi
+castelo do piaui:2202604/pi
+caxingo:2202653/pi
+cocal:2202703/pi
+cocal de telha:2202711/pi
+cocal dos alves:2202729/pi
+coivaras:2202737/pi
+colonia do gurgueia:2202752/pi
+colonia do piaui:2202778/pi
+conceicao do caninde:2202802/pi
+coronel jose dias:2202851/pi
+corrente:2202901/pi
+cristalandia do piaui:2203008/pi
+cristino castro:2203107/pi
+curimata:2203206/pi
+currais:2203230/pi
+curral novo do piaui:2203271/pi
+curralinhos:2203255/pi
+demerval lobao:2203305/pi
+dirceu arcoverde:2203354/pi
+dom expedito lopes:2203404/pi
+dom inocencio:2203453/pi
+domingos mourao:2203420/pi
+elesbao veloso:2203503/pi
+eliseu martins:2203602/pi
+esperantina:2203701/pi
+fartura do piaui:2203750/pi
+flores do piaui:2203800/pi
+floresta do piaui:2203859/pi
+floriano:2203909/pi
+francinopolis:2204006/pi
+francisco ayres:2204105/pi
+francisco macedo:2204154/pi
+francisco santos:2204204/pi
+fronteiras:2204303/pi
+geminiano:2204352/pi
+gilbues:2204402/pi
+guadalupe:2204501/pi
+guaribas:2204550/pi
+hugo napoleao:2204600/pi
+ilha grande:2204659/pi
+inhuma:2204709/pi
+ipiranga do piaui:2204808/pi
+isaias coelho:2204907/pi
+itainopolis:2205003/pi
+itaueira:2205102/pi
+jacobina do piaui:2205151/pi
+jaicos:2205201/pi
+jardim do mulato:2205250/pi
+jatoba do piaui:2205276/pi
+jerumenha:2205300/pi
+joao costa:2205359/pi
+joaquim pires:2205409/pi
+joca marques:2205458/pi
+jose de freitas:2205508/pi
+juazeiro do piaui:2205516/pi
+julio borges:2205524/pi
+jurema:2205532/pi
+lagoa alegre:2205557/pi
+lagoa de sao francisco:2205573/pi
+lagoa do barro do piaui:2205565/pi
+lagoa do piaui:2205581/pi
+lagoa do sitio:2205599/pi
+lagoinha do piaui:2205540/pi
+landri sales:2205607/pi
+luis correia:2205706/pi
+luzilandia:2205805/pi
+madeiro:2205854/pi
+manoel emidio:2205904/pi
+marcolandia:2205953/pi
+marcos parente:2206001/pi
+massape do piaui:2206050/pi
+matias olimpio:2206100/pi
+miguel alves:2206209/pi
+miguel leao:2206308/pi
+milton brandao:2206357/pi
+monsenhor gil:2206407/pi
+monsenhor hipolito:2206506/pi
+monte alegre do piaui:2206605/pi
+morro cabeca no tempo:2206654/pi
+morro do chapeu do piaui:2206670/pi
+murici dos portelas:2206696/pi
+nazare do piaui:2206704/pi
+nazaria:2206720/pi
+nossa senhora de nazare:2206753/pi
+nossa senhora dos remedios:2206803/pi
+nova santa rita:2207959/pi
+novo oriente do piaui:2206902/pi
+novo santo antonio:2206951/pi
+oeiras:2207009/pi
+olho d'agua do piaui:2207108/pi
+padre marcos:2207207/pi
+paes landim:2207306/pi
+pajeu do piaui:2207355/pi
+palmeira do piaui:2207405/pi
+palmeirais:2207504/pi
+paqueta:2207553/pi
+parnagua:2207603/pi
+parnaiba:2207702/pi
+passagem franca do piaui:2207751/pi
+patos do piaui:2207777/pi
+pau d'arco do piaui:2207793/pi
+paulistana:2207801/pi
+pavussu:2207850/pi
+pedro ii:2207900/pi
+pedro laurentino:2207934/pi
+picos:2208007/pi
+pimenteiras:2208106/pi
+pio ix:2208205/pi
+piracuruca:2208304/pi
+piripiri:2208403/pi
+porto:2208502/pi
+porto alegre do piaui:2208551/pi
+prata do piaui:2208601/pi
+queimada nova:2208650/pi
+redencao do gurgueia:2208700/pi
+regeneracao:2208809/pi
+riacho frio:2208858/pi
+ribeira do piaui:2208874/pi
+ribeiro goncalves:2208908/pi
+rio grande do piaui:2209005/pi
+santa cruz do piaui:2209104/pi
+santa cruz dos milagres:2209153/pi
+santa filomena:2209203/pi
+santa luz:2209302/pi
+santa rosa do piaui:2209377/pi
+santana do piaui:2209351/pi
+santo antonio de lisboa:2209401/pi
+santo antonio dos milagres:2209450/pi
+santo inacio do piaui:2209500/pi
+sao braz do piaui:2209559/pi
+sao felix do piaui:2209609/pi
+sao francisco de assis do piaui:2209658/pi
+sao francisco do piaui:2209708/pi
+sao goncalo do gurgueia:2209757/pi
+sao goncalo do piaui:2209807/pi
+sao joao da canabrava:2209856/pi
+sao joao da fronteira:2209872/pi
+sao joao da serra:2209906/pi
+sao joao da varjota:2209955/pi
+sao joao do arraial:2209971/pi
+sao joao do piaui:2210003/pi
+sao jose do divino:2210052/pi
+sao jose do peixe:2210102/pi
+sao jose do piaui:2210201/pi
+sao juliao:2210300/pi
+sao lourenco do piaui:2210359/pi
+sao luis do piaui:2210375/pi
+sao miguel da baixa grande:2210383/pi
+sao miguel do fidalgo:2210391/pi
+sao miguel do tapuio:2210409/pi
+sao pedro do piaui:2210508/pi
+sao raimundo nonato:2210607/pi
+sebastiao barros:2210623/pi
+sebastiao leal:2210631/pi
+sigefredo pacheco:2210656/pi
+simoes:2210706/pi
+simplicio mendes:2210805/pi
+socorro do piaui:2210904/pi
+sussuapara:2210938/pi
+tamboril do piaui:2210953/pi
+tanque do piaui:2210979/pi
+teresina:2211001/pi
+uniao:2211100/pi
+urucui:2211209/pi
+valenca do piaui:2211308/pi
+varzea branca:2211357/pi
+varzea grande:2211407/pi
+vera mendes:2211506/pi
+vila nova do piaui:2211605/pi
+wall ferraz:2211704/pi
+angra dos reis:3300100/rj
+aperibe:3300159/rj
+araruama:3300209/rj
+areal:3300225/rj
+armacao dos buzios:3300233/rj
+arraial do cabo:3300258/rj
+barra mansa:3300407/rj
+barra do pirai:3300308/rj
+belford roxo:3300456/rj
+bom jardim:3300506/rj
+bom jesus do itabapoana:3300605/rj
+cabo frio:3300704/rj
+cachoeiras de macacu:3300803/rj
+cambuci:3300902/rj
+campos dos goytacazes:3301009/rj
+cantagalo:3301108/rj
+carapebus:3300936/rj
+cardoso moreira:3301157/rj
+carmo:3301207/rj
+casimiro de abreu:3301306/rj
+comendador levy gasparian:3300951/rj
+conceicao de macabu:3301405/rj
+cordeiro:3301504/rj
+duas barras:3301603/rj
+duque de caxias:3301702/rj
+engenheiro paulo de frontin:3301801/rj
+guapimirim:3301850/rj
+iguaba grande:3301876/rj
+itaborai:3301900/rj
+itaguai:3302007/rj
+italva:3302056/rj
+itaocara:3302106/rj
+itaperuna:3302205/rj
+itatiaia:3302254/rj
+japeri:3302270/rj
+laje do muriae:3302304/rj
+macae:3302403/rj
+macuco:3302452/rj
+mage:3302502/rj
+mangaratiba:3302601/rj
+marica:3302700/rj
+mendes:3302809/rj
+mesquita:3302858/rj
+miguel pereira:3302908/rj
+miracema:3303005/rj
+natividade:3303104/rj
+nilopolis:3303203/rj
+niteroi:3303302/rj
+nova friburgo:3303401/rj
+nova iguacu:3303500/rj
+paracambi:3303609/rj
+paraiba do sul:3303708/rj
+paraty:3303807/rj
+paty do alferes:3303856/rj
+petropolis:3303906/rj
+pinheiral:3303955/rj
+pirai:3304003/rj
+porciuncula:3304102/rj
+porto real:3304110/rj
+quatis:3304128/rj
+queimados:3304144/rj
+quissama:3304151/rj
+resende:3304201/rj
+rio bonito:3304300/rj
+rio claro:3304409/rj
+rio das flores:3304508/rj
+rio das ostras:3304524/rj
+rio de janeiro:3304557/rj
+santa maria madalena:3304607/rj
+santo antonio de padua:3304706/rj
+sao fidelis:3304805/rj
+sao francisco de itabapoana:3304755/rj
+sao goncalo:3304904/rj
+sao joao da barra:3305000/rj
+sao joao de meriti:3305109/rj
+sao jose de uba:3305133/rj
+sao jose do vale do rio preto:3305158/rj
+sao pedro da aldeia:3305208/rj
+sao sebastiao do alto:3305307/rj
+sapucaia:3305406/rj
+saquarema:3305505/rj
+seropedica:3305554/rj
+silva jardim:3305604/rj
+sumidouro:3305703/rj
+tangua:3305752/rj
+teresopolis:3305802/rj
+trajano de moraes:3305901/rj
+tres rios:3306008/rj
+valenca:3306107/rj
+varre-sai:3306156/rj
+vassouras:3306206/rj
+volta redonda:3306305/rj
+acari:2400109/rn
+acu:2400208/rn
+afonso bezerra:2400307/rn
+agua nova:2400406/rn
+alexandria:2400505/rn
+almino afonso:2400604/rn
+alto do rodrigues:2400703/rn
+angicos:2400802/rn
+antonio martins:2400901/rn
+apodi:2401008/rn
+areia branca:2401107/rn
+ares:2401206/rn
+augusto severo:2401305/rn
+baia formosa:2401404/rn
+barauna:2401453/rn
+barcelona:2401503/rn
+bento fernandes:2401602/rn
+bodo:2401651/rn
+bom jesus:2401701/rn
+brejinho:2401800/rn
+caicara do norte:2401859/rn
+caicara do rio do vento:2401909/rn
+caico:2402006/rn
+campo redondo:2402105/rn
+canguaretama:2402204/rn
+caraubas:2402303/rn
+carnauba dos dantas:2402402/rn
+carnaubais:2402501/rn
+ceara-mirim:2402600/rn
+cerro cora:2402709/rn
+coronel ezequiel:2402808/rn
+coronel joao pessoa:2402907/rn
+cruzeta:2403004/rn
+currais novos:2403103/rn
+doutor severiano:2403202/rn
+encanto:2403301/rn
+equador:2403400/rn
+espirito santo:2403509/rn
+extremoz:2403608/rn
+felipe guerra:2403707/rn
+fernando pedroza:2403756/rn
+florania:2403806/rn
+francisco dantas:2403905/rn
+frutuoso gomes:2404002/rn
+galinhos:2404101/rn
+goianinha:2404200/rn
+governador dix-sept rosado:2404309/rn
+grossos:2404408/rn
+guamare:2404507/rn
+ielmo marinho:2404606/rn
+ipanguacu:2404705/rn
+ipueira:2404804/rn
+itaja:2404853/rn
+itau:2404903/rn
+jacana:2405009/rn
+jandaira:2405108/rn
+janduis:2405207/rn
+januario cicco:2405306/rn
+japi:2405405/rn
+jardim de angicos:2405504/rn
+jardim de piranhas:2405603/rn
+jardim do serido:2405702/rn
+joao camara:2405801/rn
+joao dias:2405900/rn
+jose da penha:2406007/rn
+jucurutu:2406106/rn
+jundia:2406155/rn
+lagoa nova:2406502/rn
+lagoa salgada:2406601/rn
+lagoa d'anta:2406205/rn
+lagoa de pedras:2406304/rn
+lagoa de velhos:2406403/rn
+lajes:2406700/rn
+lajes pintadas:2406809/rn
+lucrecia:2406908/rn
+luis gomes:2407005/rn
+macaiba:2407104/rn
+macau:2407203/rn
+major sales:2407252/rn
+marcelino vieira:2407302/rn
+martins:2407401/rn
+maxaranguape:2407500/rn
+messias targino:2407609/rn
+montanhas:2407708/rn
+monte alegre:2407807/rn
+monte das gameleiras:2407906/rn
+mossoro:2408003/rn
+natal:2408102/rn
+nisia floresta:2408201/rn
+nova cruz:2408300/rn
+olho d'agua do borges:2408409/rn
+ouro branco:2408508/rn
+parana:2408607/rn
+parau:2408706/rn
+parazinho:2408805/rn
+parelhas:2408904/rn
+parnamirim:2403251/rn
+passa e fica:2409100/rn
+passagem:2409209/rn
+patu:2409308/rn
+pau dos ferros:2409407/rn
+pedra grande:2409506/rn
+pedra preta:2409605/rn
+pedro avelino:2409704/rn
+pedro velho:2409803/rn
+pendencias:2409902/rn
+piloes:2410009/rn
+poco branco:2410108/rn
+portalegre:2410207/rn
+porto do mangue:2410256/rn
+pureza:2410405/rn
+rafael fernandes:2410504/rn
+rafael godeiro:2410603/rn
+riacho da cruz:2410702/rn
+riacho de santana:2410801/rn
+riachuelo:2410900/rn
+rio do fogo:2408953/rn
+rodolfo fernandes:2411007/rn
+ruy barbosa:2411106/rn
+santa cruz:2411205/rn
+santa maria:2409332/rn
+santana do matos:2411403/rn
+santana do serido:2411429/rn
+santo antonio:2411502/rn
+sao bento do norte:2411601/rn
+sao bento do trairi:2411700/rn
+sao fernando:2411809/rn
+sao francisco do oeste:2411908/rn
+sao goncalo do amarante:2412005/rn
+sao joao do sabugi:2412104/rn
+sao jose de mipibu:2412203/rn
+sao jose do campestre:2412302/rn
+sao jose do serido:2412401/rn
+sao miguel:2412500/rn
+sao miguel do gostoso:2412559/rn
+sao paulo do potengi:2412609/rn
+sao pedro:2412708/rn
+sao rafael:2412807/rn
+sao tome:2412906/rn
+sao vicente:2413003/rn
+senador eloi de souza:2413102/rn
+senador georgino avelino:2413201/rn
+serra caiada:2410306/rn
+serra negra do norte:2413409/rn
+serra de sao bento:2413300/rn
+serra do mel:2413359/rn
+serrinha:2413508/rn
+serrinha dos pintos:2413557/rn
+severiano melo:2413607/rn
+sitio novo:2413706/rn
+taboleiro grande:2413805/rn
+taipu:2413904/rn
+tangara:2414001/rn
+tenente ananias:2414100/rn
+tenente laurentino cruz:2414159/rn
+tibau:2411056/rn
+tibau do sul:2414209/rn
+timbauba dos batistas:2414308/rn
+touros:2414407/rn
+triunfo potiguar:2414456/rn
+umarizal:2414506/rn
+upanema:2414605/rn
+varzea:2414704/rn
+venha-ver:2414753/rn
+vera cruz:2414803/rn
+vicosa:2414902/rn
+vila flor:2415008/rn
+acegua:4300034/rs
+agua santa:4300059/rs
+agudo:4300109/rs
+ajuricaba:4300208/rs
+alecrim:4300307/rs
+alegrete:4300406/rs
+alegria:4300455/rs
+almirante tamandare do sul:4300471/rs
+alpestre:4300505/rs
+alto alegre:4300554/rs
+alto feliz:4300570/rs
+alvorada:4300604/rs
+amaral ferrador:4300638/rs
+ametista do sul:4300646/rs
+andre da rocha:4300661/rs
+anta gorda:4300703/rs
+antonio prado:4300802/rs
+arambare:4300851/rs
+ararica:4300877/rs
+aratiba:4300901/rs
+arroio grande:4301305/rs
+arroio do meio:4301008/rs
+arroio do padre:4301073/rs
+arroio do sal:4301057/rs
+arroio do tigre:4301206/rs
+arroio dos ratos:4301107/rs
+arvorezinha:4301404/rs
+augusto pestana:4301503/rs
+aurea:4301552/rs
+bage:4301602/rs
+balneario pinhal:4301636/rs
+barao:4301651/rs
+barao de cotegipe:4301701/rs
+barao do triunfo:4301750/rs
+barra funda:4301958/rs
+barra do guarita:4301859/rs
+barra do quarai:4301875/rs
+barra do ribeiro:4301909/rs
+barra do rio azul:4301925/rs
+barracao:4301800/rs
+barros cassal:4302006/rs
+benjamin constant do sul:4302055/rs
+bento goncalves:4302105/rs
+boa vista das missoes:4302154/rs
+boa vista do burica:4302204/rs
+boa vista do cadeado:4302220/rs
+boa vista do incra:4302238/rs
+boa vista do sul:4302253/rs
+bom jesus:4302303/rs
+bom principio:4302352/rs
+bom progresso:4302378/rs
+bom retiro do sul:4302402/rs
+boqueirao do leao:4302451/rs
+bossoroca:4302501/rs
+bozano:4302584/rs
+braga:4302600/rs
+brochier:4302659/rs
+butia:4302709/rs
+cacapava do sul:4302808/rs
+cacequi:4302907/rs
+cachoeira do sul:4303004/rs
+cachoeirinha:4303103/rs
+cacique doble:4303202/rs
+caibate:4303301/rs
+caicara:4303400/rs
+camaqua:4303509/rs
+camargo:4303558/rs
+cambara do sul:4303608/rs
+campestre da serra:4303673/rs
+campina das missoes:4303707/rs
+campinas do sul:4303806/rs
+campo bom:4303905/rs
+campo novo:4304002/rs
+campos borges:4304101/rs
+candelaria:4304200/rs
+candido godoi:4304309/rs
+candiota:4304358/rs
+canela:4304408/rs
+cangucu:4304507/rs
+canoas:4304606/rs
+canudos do vale:4304614/rs
+capao bonito do sul:4304622/rs
+capao da canoa:4304630/rs
+capao do cipo:4304655/rs
+capao do leao:4304663/rs
+capela de santana:4304689/rs
+capitao:4304697/rs
+capivari do sul:4304671/rs
+caraa:4304713/rs
+carazinho:4304705/rs
+carlos barbosa:4304804/rs
+carlos gomes:4304853/rs
+casca:4304903/rs
+caseiros:4304952/rs
+catuipe:4305009/rs
+caxias do sul:4305108/rs
+centenario:4305116/rs
+cerrito:4305124/rs
+cerro branco:4305132/rs
+cerro grande:4305157/rs
+cerro grande do sul:4305173/rs
+cerro largo:4305207/rs
+chapada:4305306/rs
+charqueadas:4305355/rs
+charrua:4305371/rs
+chiapetta:4305405/rs
+chui:4305439/rs
+chuvisca:4305447/rs
+cidreira:4305454/rs
+ciriaco:4305504/rs
+colinas:4305587/rs
+colorado:4305603/rs
+condor:4305702/rs
+constantina:4305801/rs
+coqueiro baixo:4305835/rs
+coqueiros do sul:4305850/rs
+coronel barros:4305871/rs
+coronel bicaco:4305900/rs
+coronel pilar:4305934/rs
+cotipora:4305959/rs
+coxilha:4305975/rs
+crissiumal:4306007/rs
+cristal:4306056/rs
+cristal do sul:4306072/rs
+cruz alta:4306106/rs
+cruzaltense:4306130/rs
+cruzeiro do sul:4306205/rs
+david canabarro:4306304/rs
+derrubadas:4306320/rs
+dezesseis de novembro:4306353/rs
+dilermando de aguiar:4306379/rs
+dois irmaos:4306403/rs
+dois irmaos das missoes:4306429/rs
+dois lajeados:4306452/rs
+dom feliciano:4306502/rs
+dom pedrito:4306601/rs
+dom pedro de alcantara:4306551/rs
+dona francisca:4306700/rs
+doutor mauricio cardoso:4306734/rs
+doutor ricardo:4306759/rs
+eldorado do sul:4306767/rs
+encantado:4306809/rs
+encruzilhada do sul:4306908/rs
+engenho velho:4306924/rs
+entre rios do sul:4306957/rs
+entre-ijuis:4306932/rs
+erebango:4306973/rs
+erechim:4307005/rs
+ernestina:4307054/rs
+erval grande:4307203/rs
+erval seco:4307302/rs
+esmeralda:4307401/rs
+esperanca do sul:4307450/rs
+espumoso:4307500/rs
+estacao:4307559/rs
+estancia velha:4307609/rs
+esteio:4307708/rs
+estrela:4307807/rs
+estrela velha:4307815/rs
+eugenio de castro:4307831/rs
+fagundes varela:4307864/rs
+farroupilha:4307906/rs
+faxinal do soturno:4308003/rs
+faxinalzinho:4308052/rs
+fazenda vilanova:4308078/rs
+feliz:4308102/rs
+flores da cunha:4308201/rs
+floriano peixoto:4308250/rs
+fontoura xavier:4308300/rs
+formigueiro:4308409/rs
+forquetinha:4308433/rs
+fortaleza dos valos:4308458/rs
+frederico westphalen:4308508/rs
+garibaldi:4308607/rs
+garruchos:4308656/rs
+gaurama:4308706/rs
+general camara:4308805/rs
+gentil:4308854/rs
+getulio vargas:4308904/rs
+girua:4309001/rs
+glorinha:4309050/rs
+gramado:4309100/rs
+gramado xavier:4309159/rs
+gramado dos loureiros:4309126/rs
+gravatai:4309209/rs
+guabiju:4309258/rs
+guaiba:4309308/rs
+guapore:4309407/rs
+guarani das missoes:4309506/rs
+harmonia:4309555/rs
+herval:4307104/rs
+herveiras:4309571/rs
+horizontina:4309605/rs
+hulha negra:4309654/rs
+humaita:4309704/rs
+ibarama:4309753/rs
+ibiaca:4309803/rs
+ibiraiaras:4309902/rs
+ibirapuita:4309951/rs
+ibiruba:4310009/rs
+igrejinha:4310108/rs
+ijui:4310207/rs
+ilopolis:4310306/rs
+imbe:4310330/rs
+imigrante:4310363/rs
+independencia:4310405/rs
+inhacora:4310413/rs
+ipe:4310439/rs
+ipiranga do sul:4310462/rs
+irai:4310504/rs
+itaara:4310538/rs
+itacurubi:4310553/rs
+itapuca:4310579/rs
+itaqui:4310603/rs
+itati:4310652/rs
+itatiba do sul:4310702/rs
+ivora:4310751/rs
+ivoti:4310801/rs
+jaboticaba:4310850/rs
+jacuizinho:4310876/rs
+jacutinga:4310900/rs
+jaguarao:4311007/rs
+jaguari:4311106/rs
+jaquirana:4311122/rs
+jari:4311130/rs
+joia:4311155/rs
+julio de castilhos:4311205/rs
+lagoa bonita do sul:4311239/rs
+lagoa vermelha:4311304/rs
+lagoa dos tres cantos:4311270/rs
+lagoao:4311254/rs
+lajeado:4311403/rs
+lajeado do bugre:4311429/rs
+lavras do sul:4311502/rs
+liberato salzano:4311601/rs
+lindolfo collor:4311627/rs
+linha nova:4311643/rs
+macambara:4311718/rs
+machadinho:4311700/rs
+mampituba:4311734/rs
+manoel viana:4311759/rs
+maquine:4311775/rs
+marata:4311791/rs
+marau:4311809/rs
+marcelino ramos:4311908/rs
+mariana pimentel:4311981/rs
+mariano moro:4312005/rs
+marques de souza:4312054/rs
+mata:4312104/rs
+mato castelhano:4312138/rs
+mato leitao:4312153/rs
+mato queimado:4312179/rs
+maximiliano de almeida:4312203/rs
+minas do leao:4312252/rs
+miraguai:4312302/rs
+montauri:4312351/rs
+monte alegre dos campos:4312377/rs
+monte belo do sul:4312385/rs
+montenegro:4312401/rs
+mormaco:4312427/rs
+morrinhos do sul:4312443/rs
+morro redondo:4312450/rs
+morro reuter:4312476/rs
+mostardas:4312500/rs
+mucum:4312609/rs
+muitos capoes:4312617/rs
+muliterno:4312625/rs
+nao-me-toque:4312658/rs
+nicolau vergueiro:4312674/rs
+nonoai:4312708/rs
+nova alvorada:4312757/rs
+nova araca:4312807/rs
+nova bassano:4312906/rs
+nova boa vista:4312955/rs
+nova brescia:4313003/rs
+nova candelaria:4313011/rs
+nova esperanca do sul:4313037/rs
+nova hartz:4313060/rs
+nova padua:4313086/rs
+nova palma:4313102/rs
+nova petropolis:4313201/rs
+nova prata:4313300/rs
+nova ramada:4313334/rs
+nova roma do sul:4313359/rs
+nova santa rita:4313375/rs
+novo barreiro:4313490/rs
+novo cabrais:4313391/rs
+novo hamburgo:4313409/rs
+novo machado:4313425/rs
+novo tiradentes:4313441/rs
+novo xingu:4313466/rs
+osorio:4313508/rs
+paim filho:4313607/rs
+palmares do sul:4313656/rs
+palmeira das missoes:4313706/rs
+palmitinho:4313805/rs
+panambi:4313904/rs
+pantano grande:4313953/rs
+parai:4314001/rs
+paraiso do sul:4314027/rs
+pareci novo:4314035/rs
+parobe:4314050/rs
+passa sete:4314068/rs
+passo fundo:4314100/rs
+passo do sobrado:4314076/rs
+paulo bento:4314134/rs
+paverama:4314159/rs
+pedras altas:4314175/rs
+pedro osorio:4314209/rs
+pejucara:4314308/rs
+pelotas:4314407/rs
+picada cafe:4314423/rs
+pinhal:4314456/rs
+pinhal grande:4314472/rs
+pinhal da serra:4314464/rs
+pinheirinho do vale:4314498/rs
+pinheiro machado:4314506/rs
+pinto bandeira:4314548/rs
+pirapo:4314555/rs
+piratini:4314605/rs
+planalto:4314704/rs
+poco das antas:4314753/rs
+pontao:4314779/rs
+ponte preta:4314787/rs
+portao:4314803/rs
+porto alegre:4314902/rs
+porto lucena:4315008/rs
+porto maua:4315057/rs
+porto vera cruz:4315073/rs
+porto xavier:4315107/rs
+pouso novo:4315131/rs
+presidente lucena:4315149/rs
+progresso:4315156/rs
+protasio alves:4315172/rs
+putinga:4315206/rs
+quarai:4315305/rs
+quatro irmaos:4315313/rs
+quevedos:4315321/rs
+quinze de novembro:4315354/rs
+redentora:4315404/rs
+relvado:4315453/rs
+restinga seca:4315503/rs
+rio grande:4315602/rs
+rio pardo:4315701/rs
+rio dos indios:4315552/rs
+riozinho:4315750/rs
+roca sales:4315800/rs
+rodeio bonito:4315909/rs
+rolador:4315958/rs
+rolante:4316006/rs
+ronda alta:4316105/rs
+rondinha:4316204/rs
+roque gonzales:4316303/rs
+rosario do sul:4316402/rs
+sagrada familia:4316428/rs
+saldanha marinho:4316436/rs
+salto do jacui:4316451/rs
+salvador das missoes:4316477/rs
+salvador do sul:4316501/rs
+sananduva:4316600/rs
+sant'ana do livramento:4317103/rs
+santa barbara do sul:4316709/rs
+santa cecilia do sul:4316733/rs
+santa clara do sul:4316758/rs
+santa cruz do sul:4316808/rs
+santa margarida do sul:4316972/rs
+santa maria:4316907/rs
+santa maria do herval:4316956/rs
+santa rosa:4317202/rs
+santa tereza:4317251/rs
+santa vitoria do palmar:4317301/rs
+santana da boa vista:4317004/rs
+santiago:4317400/rs
+santo angelo:4317509/rs
+santo antonio da patrulha:4317608/rs
+santo antonio das missoes:4317707/rs
+santo antonio do palma:4317558/rs
+santo antonio do planalto:4317756/rs
+santo augusto:4317806/rs
+santo cristo:4317905/rs
+santo expedito do sul:4317954/rs
+sao borja:4318002/rs
+sao domingos do sul:4318051/rs
+sao francisco de assis:4318101/rs
+sao francisco de paula:4318200/rs
+sao gabriel:4318309/rs
+sao jeronimo:4318408/rs
+sao joao da urtiga:4318424/rs
+sao joao do polesine:4318432/rs
+sao jorge:4318440/rs
+sao jose das missoes:4318457/rs
+sao jose do herval:4318465/rs
+sao jose do hortencio:4318481/rs
+sao jose do inhacora:4318499/rs
+sao jose do norte:4318507/rs
+sao jose do ouro:4318606/rs
+sao jose do sul:4318614/rs
+sao jose dos ausentes:4318622/rs
+sao leopoldo:4318705/rs
+sao lourenco do sul:4318804/rs
+sao luiz gonzaga:4318903/rs
+sao marcos:4319000/rs
+sao martinho:4319109/rs
+sao martinho da serra:4319125/rs
+sao miguel das missoes:4319158/rs
+sao nicolau:4319208/rs
+sao paulo das missoes:4319307/rs
+sao pedro da serra:4319356/rs
+sao pedro das missoes:4319364/rs
+sao pedro do butia:4319372/rs
+sao pedro do sul:4319406/rs
+sao sebastiao do cai:4319505/rs
+sao sepe:4319604/rs
+sao valentim:4319703/rs
+sao valentim do sul:4319711/rs
+sao valerio do sul:4319737/rs
+sao vendelino:4319752/rs
+sao vicente do sul:4319802/rs
+sapiranga:4319901/rs
+sapucaia do sul:4320008/rs
+sarandi:4320107/rs
+seberi:4320206/rs
+sede nova:4320230/rs
+segredo:4320263/rs
+selbach:4320305/rs
+senador salgado filho:4320321/rs
+sentinela do sul:4320354/rs
+serafina correa:4320404/rs
+serio:4320453/rs
+sertao:4320503/rs
+sertao santana:4320552/rs
+sete de setembro:4320578/rs
+severiano de almeida:4320602/rs
+silveira martins:4320651/rs
+sinimbu:4320677/rs
+sobradinho:4320701/rs
+soledade:4320800/rs
+tabai:4320859/rs
+tapejara:4320909/rs
+tapera:4321006/rs
+tapes:4321105/rs
+taquara:4321204/rs
+taquari:4321303/rs
+taquarucu do sul:4321329/rs
+tavares:4321352/rs
+tenente portela:4321402/rs
+terra de areia:4321436/rs
+teutonia:4321451/rs
+tio hugo:4321469/rs
+tiradentes do sul:4321477/rs
+toropi:4321493/rs
+torres:4321501/rs
+tramandai:4321600/rs
+travesseiro:4321626/rs
+tres arroios:4321634/rs
+tres cachoeiras:4321667/rs
+tres coroas:4321709/rs
+tres forquilhas:4321832/rs
+tres palmeiras:4321857/rs
+tres passos:4321907/rs
+tres de maio:4321808/rs
+trindade do sul:4321956/rs
+triunfo:4322004/rs
+tucunduva:4322103/rs
+tunas:4322152/rs
+tupanci do sul:4322186/rs
+tupancireta:4322202/rs
+tupandi:4322251/rs
+tuparendi:4322301/rs
+turucu:4322327/rs
+ubiretama:4322343/rs
+uniao da serra:4322350/rs
+unistalda:4322376/rs
+uruguaiana:4322400/rs
+vacaria:4322509/rs
+vale real:4322541/rs
+vale verde:4322525/rs
+vale do sol:4322533/rs
+vanini:4322558/rs
+venancio aires:4322608/rs
+vera cruz:4322707/rs
+veranopolis:4322806/rs
+vespasiano correa:4322855/rs
+viadutos:4322905/rs
+viamao:4323002/rs
+vicente dutra:4323101/rs
+victor graeff:4323200/rs
+vila flores:4323309/rs
+vila langaro:4323358/rs
+vila maria:4323408/rs
+vila nova do sul:4323457/rs
+vista alegre:4323507/rs
+vista alegre do prata:4323606/rs
+vista gaucha:4323705/rs
+vitoria das missoes:4323754/rs
+westfalia:4323770/rs
+xangri-la:4323804/rs
+alta floresta d'oeste:1100015/ro
+alto alegre dos parecis:1100379/ro
+alto paraiso:1100403/ro
+alvorada d'oeste:1100346/ro
+ariquemes:1100023/ro
+buritis:1100452/ro
+cabixi:1100031/ro
+cacaulandia:1100601/ro
+cacoal:1100049/ro
+campo novo de rondonia:1100700/ro
+candeias do jamari:1100809/ro
+castanheiras:1100908/ro
+cerejeiras:1100056/ro
+chupinguaia:1100924/ro
+colorado do oeste:1100064/ro
+corumbiara:1100072/ro
+costa marques:1100080/ro
+cujubim:1100940/ro
+espigao d'oeste:1100098/ro
+governador jorge teixeira:1101005/ro
+guajara-mirim:1100106/ro
+itapua do oeste:1101104/ro
+jaru:1100114/ro
+ji-parana:1100122/ro
+machadinho d'oeste:1100130/ro
+ministro andreazza:1101203/ro
+mirante da serra:1101302/ro
+monte negro:1101401/ro
+nova brasilandia d'oeste:1100148/ro
+nova mamore:1100338/ro
+nova uniao:1101435/ro
+novo horizonte do oeste:1100502/ro
+ouro preto do oeste:1100155/ro
+parecis:1101450/ro
+pimenta bueno:1100189/ro
+pimenteiras do oeste:1101468/ro
+porto velho:1100205/ro
+presidente medici:1100254/ro
+primavera de rondonia:1101476/ro
+rio crespo:1100262/ro
+rolim de moura:1100288/ro
+santa luzia d'oeste:1100296/ro
+sao felipe d'oeste:1101484/ro
+sao francisco do guapore:1101492/ro
+sao miguel do guapore:1100320/ro
+seringueiras:1101500/ro
+teixeiropolis:1101559/ro
+theobroma:1101609/ro
+urupa:1101708/ro
+vale do anari:1101757/ro
+vale do paraiso:1101807/ro
+vilhena:1100304/ro
+alto alegre:1400050/rr
+amajari:1400027/rr
+boa vista:1400100/rr
+bonfim:1400159/rr
+canta:1400175/rr
+caracarai:1400209/rr
+caroebe:1400233/rr
+iracema:1400282/rr
+mucajai:1400308/rr
+normandia:1400407/rr
+pacaraima:1400456/rr
+rorainopolis:1400472/rr
+sao joao da baliza:1400506/rr
+sao luiz:1400605/rr
+uiramuta:1400704/rr
+abdon batista:4200051/sc
+abelardo luz:4200101/sc
+agrolandia:4200200/sc
+agronomica:4200309/sc
+agua doce:4200408/sc
+aguas frias:4200556/sc
+aguas mornas:4200606/sc
+aguas de chapeco:4200507/sc
+alfredo wagner:4200705/sc
+alto bela vista:4200754/sc
+anchieta:4200804/sc
+angelina:4200903/sc
+anita garibaldi:4201000/sc
+anitapolis:4201109/sc
+antonio carlos:4201208/sc
+apiuna:4201257/sc
+arabuta:4201273/sc
+araquari:4201307/sc
+ararangua:4201406/sc
+armazem:4201505/sc
+arroio trinta:4201604/sc
+arvoredo:4201653/sc
+ascurra:4201703/sc
+atalanta:4201802/sc
+aurora:4201901/sc
+balneario arroio do silva:4201950/sc
+balneario barra do sul:4202057/sc
+balneario camboriu:4202008/sc
+balneario gaivota:4202073/sc
+balneario picarras:4212809/sc
+balneario rincao:4220000/sc
+bandeirante:4202081/sc
+barra bonita:4202099/sc
+barra velha:4202107/sc
+bela vista do toldo:4202131/sc
+belmonte:4202156/sc
+benedito novo:4202206/sc
+biguacu:4202305/sc
+blumenau:4202404/sc
+bocaina do sul:4202438/sc
+bom jardim da serra:4202503/sc
+bom jesus:4202537/sc
+bom jesus do oeste:4202578/sc
+bom retiro:4202602/sc
+bombinhas:4202453/sc
+botuvera:4202701/sc
+braco do norte:4202800/sc
+braco do trombudo:4202859/sc
+brunopolis:4202875/sc
+brusque:4202909/sc
+cacador:4203006/sc
+caibi:4203105/sc
+calmon:4203154/sc
+camboriu:4203204/sc
+campo alegre:4203303/sc
+campo belo do sul:4203402/sc
+campo ere:4203501/sc
+campos novos:4203600/sc
+canelinha:4203709/sc
+canoinhas:4203808/sc
+capao alto:4203253/sc
+capinzal:4203907/sc
+capivari de baixo:4203956/sc
+catanduvas:4204004/sc
+caxambu do sul:4204103/sc
+celso ramos:4204152/sc
+cerro negro:4204178/sc
+chapadao do lageado:4204194/sc
+chapeco:4204202/sc
+cocal do sul:4204251/sc
+concordia:4204301/sc
+cordilheira alta:4204350/sc
+coronel freitas:4204400/sc
+coronel martins:4204459/sc
+correia pinto:4204558/sc
+corupa:4204509/sc
+criciuma:4204608/sc
+cunha pora:4204707/sc
+cunhatai:4204756/sc
+curitibanos:4204806/sc
+descanso:4204905/sc
+dionisio cerqueira:4205001/sc
+dona emma:4205100/sc
+doutor pedrinho:4205159/sc
+entre rios:4205175/sc
+ermo:4205191/sc
+erval velho:4205209/sc
+faxinal dos guedes:4205308/sc
+flor do sertao:4205357/sc
+florianopolis:4205407/sc
+formosa do sul:4205431/sc
+forquilhinha:4205456/sc
+fraiburgo:4205506/sc
+frei rogerio:4205555/sc
+galvao:4205605/sc
+garopaba:4205704/sc
+garuva:4205803/sc
+gaspar:4205902/sc
+governador celso ramos:4206009/sc
+grao-para:4206108/sc
+gravatal:4206207/sc
+guabiruba:4206306/sc
+guaraciaba:4206405/sc
+guaramirim:4206504/sc
+guaruja do sul:4206603/sc
+guatambu:4206652/sc
+herval d'oeste:4206702/sc
+ibiam:4206751/sc
+ibicare:4206801/sc
+ibirama:4206900/sc
+icara:4207007/sc
+ilhota:4207106/sc
+imarui:4207205/sc
+imbituba:4207304/sc
+imbuia:4207403/sc
+indaial:4207502/sc
+iomere:4207577/sc
+ipira:4207601/sc
+ipora do oeste:4207650/sc
+ipuacu:4207684/sc
+ipumirim:4207700/sc
+iraceminha:4207759/sc
+irani:4207809/sc
+irati:4207858/sc
+irineopolis:4207908/sc
+ita:4208005/sc
+itaiopolis:4208104/sc
+itajai:4208203/sc
+itapema:4208302/sc
+itapiranga:4208401/sc
+itapoa:4208450/sc
+ituporanga:4208500/sc
+jabora:4208609/sc
+jacinto machado:4208708/sc
+jaguaruna:4208807/sc
+jaragua do sul:4208906/sc
+jardinopolis:4208955/sc
+joacaba:4209003/sc
+joinville:4209102/sc
+jose boiteux:4209151/sc
+jupia:4209177/sc
+lacerdopolis:4209201/sc
+lages:4209300/sc
+laguna:4209409/sc
+lajeado grande:4209458/sc
+laurentino:4209508/sc
+lauro muller:4209607/sc
+lebon regis:4209706/sc
+leoberto leal:4209805/sc
+lindoia do sul:4209854/sc
+lontras:4209904/sc
+luiz alves:4210001/sc
+luzerna:4210035/sc
+macieira:4210050/sc
+mafra:4210100/sc
+major gercino:4210209/sc
+major vieira:4210308/sc
+maracaja:4210407/sc
+maravilha:4210506/sc
+marema:4210555/sc
+massaranduba:4210605/sc
+matos costa:4210704/sc
+meleiro:4210803/sc
+mirim doce:4210852/sc
+modelo:4210902/sc
+mondai:4211009/sc
+monte carlo:4211058/sc
+monte castelo:4211108/sc
+morro grande:4211256/sc
+morro da fumaca:4211207/sc
+navegantes:4211306/sc
+nova erechim:4211405/sc
+nova itaberaba:4211454/sc
+nova trento:4211504/sc
+nova veneza:4211603/sc
+novo horizonte:4211652/sc
+orleans:4211702/sc
+otacilio costa:4211751/sc
+ouro:4211801/sc
+ouro verde:4211850/sc
+paial:4211876/sc
+painel:4211892/sc
+palhoca:4211900/sc
+palma sola:4212007/sc
+palmeira:4212056/sc
+palmitos:4212106/sc
+papanduva:4212205/sc
+paraiso:4212239/sc
+passo de torres:4212254/sc
+passos maia:4212270/sc
+paulo lopes:4212304/sc
+pedras grandes:4212403/sc
+penha:4212502/sc
+peritiba:4212601/sc
+pescaria brava:4212650/sc
+petrolandia:4212700/sc
+pinhalzinho:4212908/sc
+pinheiro preto:4213005/sc
+piratuba:4213104/sc
+planalto alegre:4213153/sc
+pomerode:4213203/sc
+ponte alta:4213302/sc
+ponte alta do norte:4213351/sc
+ponte serrada:4213401/sc
+porto belo:4213500/sc
+porto uniao:4213609/sc
+pouso redondo:4213708/sc
+praia grande:4213807/sc
+presidente castello branco:4213906/sc
+presidente getulio:4214003/sc
+presidente nereu:4214102/sc
+princesa:4214151/sc
+quilombo:4214201/sc
+rancho queimado:4214300/sc
+rio fortuna:4214904/sc
+rio negrinho:4215000/sc
+rio rufino:4215059/sc
+rio das antas:4214409/sc
+rio do campo:4214508/sc
+rio do oeste:4214607/sc
+rio do sul:4214805/sc
+rio dos cedros:4214706/sc
+riqueza:4215075/sc
+rodeio:4215109/sc
+romelandia:4215208/sc
+salete:4215307/sc
+saltinho:4215356/sc
+salto veloso:4215406/sc
+sangao:4215455/sc
+santa cecilia:4215505/sc
+santa helena:4215554/sc
+santa rosa de lima:4215604/sc
+santa rosa do sul:4215653/sc
+santa terezinha:4215679/sc
+santa terezinha do progresso:4215687/sc
+santiago do sul:4215695/sc
+santo amaro da imperatriz:4215703/sc
+sao bento do sul:4215802/sc
+sao bernardino:4215752/sc
+sao bonifacio:4215901/sc
+sao carlos:4216008/sc
+sao cristovao do sul:4216057/sc
+sao domingos:4216107/sc
+sao francisco do sul:4216206/sc
+sao joao batista:4216305/sc
+sao joao do itaperiu:4216354/sc
+sao joao do oeste:4216255/sc
+sao joao do sul:4216404/sc
+sao joaquim:4216503/sc
+sao jose:4216602/sc
+sao jose do cedro:4216701/sc
+sao jose do cerrito:4216800/sc
+sao lourenco do oeste:4216909/sc
+sao ludgero:4217006/sc
+sao martinho:4217105/sc
+sao miguel da boa vista:4217154/sc
+sao miguel do oeste:4217204/sc
+sao pedro de alcantara:4217253/sc
+saudades:4217303/sc
+schroeder:4217402/sc
+seara:4217501/sc
+serra alta:4217550/sc
+sideropolis:4217600/sc
+sombrio:4217709/sc
+sul brasil:4217758/sc
+taio:4217808/sc
+tangara:4217907/sc
+tigrinhos:4217956/sc
+tijucas:4218004/sc
+timbe do sul:4218103/sc
+timbo:4218202/sc
+timbo grande:4218251/sc
+tres barras:4218301/sc
+treviso:4218350/sc
+treze tilias:4218509/sc
+treze de maio:4218400/sc
+trombudo central:4218608/sc
+tubarao:4218707/sc
+tunapolis:4218756/sc
+turvo:4218806/sc
+uniao do oeste:4218855/sc
+urubici:4218905/sc
+urupema:4218954/sc
+urussanga:4219002/sc
+vargeao:4219101/sc
+vargem:4219150/sc
+vargem bonita:4219176/sc
+vidal ramos:4219200/sc
+videira:4219309/sc
+vitor meireles:4219358/sc
+witmarsum:4219408/sc
+xanxere:4219507/sc
+xavantina:4219606/sc
+xaxim:4219705/sc
+zortea:4219853/sc
+adamantina:3500105/sp
+adolfo:3500204/sp
+aguai:3500303/sp
+aguas da prata:3500402/sp
+aguas de lindoia:3500501/sp
+aguas de santa barbara:3500550/sp
+aguas de sao pedro:3500600/sp
+agudos:3500709/sp
+alambari:3500758/sp
+alfredo marcondes:3500808/sp
+altair:3500907/sp
+altinopolis:3501004/sp
+alto alegre:3501103/sp
+aluminio:3501152/sp
+alvares florence:3501202/sp
+alvares machado:3501301/sp
+alvaro de carvalho:3501400/sp
+alvinlandia:3501509/sp
+americana:3501608/sp
+americo brasiliense:3501707/sp
+americo de campos:3501806/sp
+amparo:3501905/sp
+analandia:3502002/sp
+andradina:3502101/sp
+angatuba:3502200/sp
+anhembi:3502309/sp
+anhumas:3502408/sp
+aparecida:3502507/sp
+aparecida d'oeste:3502606/sp
+apiai:3502705/sp
+aracariguama:3502754/sp
+aracatuba:3502804/sp
+aracoiaba da serra:3502903/sp
+aramina:3503000/sp
+arandu:3503109/sp
+arapei:3503158/sp
+araraquara:3503208/sp
+araras:3503307/sp
+arco-iris:3503356/sp
+arealva:3503406/sp
+areias:3503505/sp
+areiopolis:3503604/sp
+ariranha:3503703/sp
+artur nogueira:3503802/sp
+aruja:3503901/sp
+aspasia:3503950/sp
+assis:3504008/sp
+atibaia:3504107/sp
+auriflama:3504206/sp
+avai:3504305/sp
+avanhandava:3504404/sp
+avare:3504503/sp
+bady bassitt:3504602/sp
+balbinos:3504701/sp
+balsamo:3504800/sp
+bananal:3504909/sp
+barao de antonina:3505005/sp
+barbosa:3505104/sp
+bariri:3505203/sp
+barra bonita:3505302/sp
+barra do chapeu:3505351/sp
+barra do turvo:3505401/sp
+barretos:3505500/sp
+barrinha:3505609/sp
+barueri:3505708/sp
+bastos:3505807/sp
+batatais:3505906/sp
+bauru:3506003/sp
+bebedouro:3506102/sp
+bento de abreu:3506201/sp
+bernardino de campos:3506300/sp
+bertioga:3506359/sp
+bilac:3506409/sp
+birigui:3506508/sp
+biritiba mirim:3506607/sp
+boa esperanca do sul:3506706/sp
+bocaina:3506805/sp
+bofete:3506904/sp
+boituva:3507001/sp
+bom jesus dos perdoes:3507100/sp
+bom sucesso de itarare:3507159/sp
+bora:3507209/sp
+boraceia:3507308/sp
+borborema:3507407/sp
+borebi:3507456/sp
+botucatu:3507506/sp
+braganca paulista:3507605/sp
+brauna:3507704/sp
+brejo alegre:3507753/sp
+brodowski:3507803/sp
+brotas:3507902/sp
+buri:3508009/sp
+buritama:3508108/sp
+buritizal:3508207/sp
+cabralia paulista:3508306/sp
+cabreuva:3508405/sp
+cacapava:3508504/sp
+cachoeira paulista:3508603/sp
+caconde:3508702/sp
+cafelandia:3508801/sp
+caiabu:3508900/sp
+caieiras:3509007/sp
+caiua:3509106/sp
+cajamar:3509205/sp
+cajati:3509254/sp
+cajobi:3509304/sp
+cajuru:3509403/sp
+campina do monte alegre:3509452/sp
+campinas:3509502/sp
+campo limpo paulista:3509601/sp
+campos novos paulista:3509809/sp
+campos do jordao:3509700/sp
+cananeia:3509908/sp
+canas:3509957/sp
+candido mota:3510005/sp
+candido rodrigues:3510104/sp
+canitar:3510153/sp
+capao bonito:3510203/sp
+capela do alto:3510302/sp
+capivari:3510401/sp
+caraguatatuba:3510500/sp
+carapicuiba:3510609/sp
+cardoso:3510708/sp
+casa branca:3510807/sp
+cassia dos coqueiros:3510906/sp
+castilho:3511003/sp
+catanduva:3511102/sp
+catigua:3511201/sp
+cedral:3511300/sp
+cerqueira cesar:3511409/sp
+cerquilho:3511508/sp
+cesario lange:3511607/sp
+charqueada:3511706/sp
+chavantes:3557204/sp
+clementina:3511904/sp
+colina:3512001/sp
+colombia:3512100/sp
+conchal:3512209/sp
+conchas:3512308/sp
+cordeiropolis:3512407/sp
+coroados:3512506/sp
+coronel macedo:3512605/sp
+corumbatai:3512704/sp
+cosmopolis:3512803/sp
+cosmorama:3512902/sp
+cotia:3513009/sp
+cravinhos:3513108/sp
+cristais paulista:3513207/sp
+cruzalia:3513306/sp
+cruzeiro:3513405/sp
+cubatao:3513504/sp
+cunha:3513603/sp
+descalvado:3513702/sp
+diadema:3513801/sp
+dirce reis:3513850/sp
+divinolandia:3513900/sp
+dobrada:3514007/sp
+dois corregos:3514106/sp
+dolcinopolis:3514205/sp
+dourado:3514304/sp
+dracena:3514403/sp
+duartina:3514502/sp
+dumont:3514601/sp
+echapora:3514700/sp
+eldorado:3514809/sp
+elias fausto:3514908/sp
+elisiario:3514924/sp
+embauba:3514957/sp
+embu das artes:3515004/sp
+embu-guacu:3515103/sp
+emilianopolis:3515129/sp
+engenheiro coelho:3515152/sp
+espirito santo do pinhal:3515186/sp
+espirito santo do turvo:3515194/sp
+estiva gerbi:3557303/sp
+estrela d'oeste:3515202/sp
+estrela do norte:3515301/sp
+euclides da cunha paulista:3515350/sp
+fartura:3515400/sp
+fernando prestes:3515608/sp
+fernandopolis:3515509/sp
+fernao:3515657/sp
+ferraz de vasconcelos:3515707/sp
+flora rica:3515806/sp
+floreal:3515905/sp
+florida paulista:3516002/sp
+florinea:3516101/sp
+franca:3516200/sp
+francisco morato:3516309/sp
+franco da rocha:3516408/sp
+gabriel monteiro:3516507/sp
+galia:3516606/sp
+garca:3516705/sp
+gastao vidigal:3516804/sp
+gaviao peixoto:3516853/sp
+general salgado:3516903/sp
+getulina:3517000/sp
+glicerio:3517109/sp
+guaicara:3517208/sp
+guaimbe:3517307/sp
+guaira:3517406/sp
+guapiacu:3517505/sp
+guapiara:3517604/sp
+guara:3517703/sp
+guaracai:3517802/sp
+guaraci:3517901/sp
+guarani d'oeste:3518008/sp
+guaranta:3518107/sp
+guararapes:3518206/sp
+guararema:3518305/sp
+guaratingueta:3518404/sp
+guarei:3518503/sp
+guariba:3518602/sp
+guaruja:3518701/sp
+guarulhos:3518800/sp
+guatapara:3518859/sp
+guzolandia:3518909/sp
+herculandia:3519006/sp
+holambra:3519055/sp
+hortolandia:3519071/sp
+iacanga:3519105/sp
+iacri:3519204/sp
+iaras:3519253/sp
+ibate:3519303/sp
+ibira:3519402/sp
+ibirarema:3519501/sp
+ibitinga:3519600/sp
+ibiuna:3519709/sp
+icem:3519808/sp
+iepe:3519907/sp
+igaracu do tiete:3520004/sp
+igarapava:3520103/sp
+igarata:3520202/sp
+iguape:3520301/sp
+ilha comprida:3520426/sp
+ilha solteira:3520442/sp
+ilhabela:3520400/sp
+indaiatuba:3520509/sp
+indiana:3520608/sp
+indiapora:3520707/sp
+inubia paulista:3520806/sp
+ipaussu:3520905/sp
+ipero:3521002/sp
+ipeuna:3521101/sp
+ipigua:3521150/sp
+iporanga:3521200/sp
+ipua:3521309/sp
+iracemapolis:3521408/sp
+irapua:3521507/sp
+irapuru:3521606/sp
+itabera:3521705/sp
+itai:3521804/sp
+itajobi:3521903/sp
+itaju:3522000/sp
+itanhaem:3522109/sp
+itaoca:3522158/sp
+itapecerica da serra:3522208/sp
+itapetininga:3522307/sp
+itapeva:3522406/sp
+itapevi:3522505/sp
+itapira:3522604/sp
+itapirapua paulista:3522653/sp
+itapolis:3522703/sp
+itaporanga:3522802/sp
+itapui:3522901/sp
+itapura:3523008/sp
+itaquaquecetuba:3523107/sp
+itarare:3523206/sp
+itariri:3523305/sp
+itatiba:3523404/sp
+itatinga:3523503/sp
+itirapina:3523602/sp
+itirapua:3523701/sp
+itobi:3523800/sp
+itu:3523909/sp
+itupeva:3524006/sp
+ituverava:3524105/sp
+jaborandi:3524204/sp
+jaboticabal:3524303/sp
+jacarei:3524402/sp
+jaci:3524501/sp
+jacupiranga:3524600/sp
+jaguariuna:3524709/sp
+jales:3524808/sp
+jambeiro:3524907/sp
+jandira:3525003/sp
+jardinopolis:3525102/sp
+jarinu:3525201/sp
+jau:3525300/sp
+jeriquara:3525409/sp
+joanopolis:3525508/sp
+joao ramalho:3525607/sp
+jose bonifacio:3525706/sp
+julio mesquita:3525805/sp
+jumirim:3525854/sp
+jundiai:3525904/sp
+junqueiropolis:3526001/sp
+juquia:3526100/sp
+juquitiba:3526209/sp
+lagoinha:3526308/sp
+laranjal paulista:3526407/sp
+lavinia:3526506/sp
+lavrinhas:3526605/sp
+leme:3526704/sp
+lencois paulista:3526803/sp
+limeira:3526902/sp
+lindoia:3527009/sp
+lins:3527108/sp
+lorena:3527207/sp
+lourdes:3527256/sp
+louveira:3527306/sp
+lucelia:3527405/sp
+lucianopolis:3527504/sp
+luis antonio:3527603/sp
+luiziania:3527702/sp
+lupercio:3527801/sp
+lutecia:3527900/sp
+macatuba:3528007/sp
+macaubal:3528106/sp
+macedonia:3528205/sp
+magda:3528304/sp
+mairinque:3528403/sp
+mairipora:3528502/sp
+manduri:3528601/sp
+maraba paulista:3528700/sp
+maracai:3528809/sp
+marapoama:3528858/sp
+mariapolis:3528908/sp
+marilia:3529005/sp
+marinopolis:3529104/sp
+martinopolis:3529203/sp
+matao:3529302/sp
+maua:3529401/sp
+mendonca:3529500/sp
+meridiano:3529609/sp
+mesopolis:3529658/sp
+miguelopolis:3529708/sp
+mineiros do tiete:3529807/sp
+mira estrela:3530003/sp
+miracatu:3529906/sp
+mirandopolis:3530102/sp
+mirante do paranapanema:3530201/sp
+mirassol:3530300/sp
+mirassolandia:3530409/sp
+mococa:3530508/sp
+mogi guacu:3530706/sp
+mogi mirim:3530805/sp
+mogi das cruzes:3530607/sp
+mombuca:3530904/sp
+moncoes:3531001/sp
+mongagua:3531100/sp
+monte alegre do sul:3531209/sp
+monte alto:3531308/sp
+monte aprazivel:3531407/sp
+monte azul paulista:3531506/sp
+monte castelo:3531605/sp
+monte mor:3531803/sp
+monteiro lobato:3531704/sp
+morro agudo:3531902/sp
+morungaba:3532009/sp
+motuca:3532058/sp
+murutinga do sul:3532108/sp
+nantes:3532157/sp
+narandiba:3532207/sp
+natividade da serra:3532306/sp
+nazare paulista:3532405/sp
+neves paulista:3532504/sp
+nhandeara:3532603/sp
+nipoa:3532702/sp
+nova alianca:3532801/sp
+nova campina:3532827/sp
+nova canaa paulista:3532843/sp
+nova castilho:3532868/sp
+nova europa:3532900/sp
+nova granada:3533007/sp
+nova guataporanga:3533106/sp
+nova independencia:3533205/sp
+nova luzitania:3533304/sp
+nova odessa:3533403/sp
+novais:3533254/sp
+novo horizonte:3533502/sp
+nuporanga:3533601/sp
+ocaucu:3533700/sp
+oleo:3533809/sp
+olimpia:3533908/sp
+onda verde:3534005/sp
+oriente:3534104/sp
+orindiuva:3534203/sp
+orlandia:3534302/sp
+osasco:3534401/sp
+oscar bressane:3534500/sp
+osvaldo cruz:3534609/sp
+ourinhos:3534708/sp
+ouro verde:3534807/sp
+ouroeste:3534757/sp
+pacaembu:3534906/sp
+palestina:3535002/sp
+palmares paulista:3535101/sp
+palmeira d'oeste:3535200/sp
+palmital:3535309/sp
+panorama:3535408/sp
+paraguacu paulista:3535507/sp
+paraibuna:3535606/sp
+paraiso:3535705/sp
+paranapanema:3535804/sp
+paranapua:3535903/sp
+parapua:3536000/sp
+pardinho:3536109/sp
+pariquera-acu:3536208/sp
+parisi:3536257/sp
+patrocinio paulista:3536307/sp
+pauliceia:3536406/sp
+paulinia:3536505/sp
+paulistania:3536570/sp
+paulo de faria:3536604/sp
+pederneiras:3536703/sp
+pedra bela:3536802/sp
+pedranopolis:3536901/sp
+pedregulho:3537008/sp
+pedreira:3537107/sp
+pedrinhas paulista:3537156/sp
+pedro de toledo:3537206/sp
+penapolis:3537305/sp
+pereira barreto:3537404/sp
+pereiras:3537503/sp
+peruibe:3537602/sp
+piacatu:3537701/sp
+piedade:3537800/sp
+pilar do sul:3537909/sp
+pindamonhangaba:3538006/sp
+pindorama:3538105/sp
+pinhalzinho:3538204/sp
+piquerobi:3538303/sp
+piquete:3538501/sp
+piracaia:3538600/sp
+piracicaba:3538709/sp
+piraju:3538808/sp
+pirajui:3538907/sp
+pirangi:3539004/sp
+pirapora do bom jesus:3539103/sp
+pirapozinho:3539202/sp
+pirassununga:3539301/sp
+piratininga:3539400/sp
+pitangueiras:3539509/sp
+planalto:3539608/sp
+platina:3539707/sp
+poa:3539806/sp
+poloni:3539905/sp
+pompeia:3540002/sp
+pongai:3540101/sp
+pontal:3540200/sp
+pontalinda:3540259/sp
+pontes gestal:3540309/sp
+populina:3540408/sp
+porangaba:3540507/sp
+porto feliz:3540606/sp
+porto ferreira:3540705/sp
+potim:3540754/sp
+potirendaba:3540804/sp
+pracinha:3540853/sp
+pradopolis:3540903/sp
+praia grande:3541000/sp
+pratania:3541059/sp
+presidente alves:3541109/sp
+presidente bernardes:3541208/sp
+presidente epitacio:3541307/sp
+presidente prudente:3541406/sp
+presidente venceslau:3541505/sp
+promissao:3541604/sp
+quadra:3541653/sp
+quata:3541703/sp
+queiroz:3541802/sp
+queluz:3541901/sp
+quintana:3542008/sp
+rafard:3542107/sp
+rancharia:3542206/sp
+redencao da serra:3542305/sp
+regente feijo:3542404/sp
+reginopolis:3542503/sp
+registro:3542602/sp
+restinga:3542701/sp
+ribeira:3542800/sp
+ribeirao bonito:3542909/sp
+ribeirao branco:3543006/sp
+ribeirao corrente:3543105/sp
+ribeirao grande:3543253/sp
+ribeirao pires:3543303/sp
+ribeirao preto:3543402/sp
+ribeirao do sul:3543204/sp
+ribeirao dos indios:3543238/sp
+rifaina:3543600/sp
+rincao:3543709/sp
+rinopolis:3543808/sp
+rio claro:3543907/sp
+rio grande da serra:3544103/sp
+rio das pedras:3544004/sp
+riolandia:3544202/sp
+riversul:3543501/sp
+rosana:3544251/sp
+roseira:3544301/sp
+rubiacea:3544400/sp
+rubineia:3544509/sp
+sabino:3544608/sp
+sagres:3544707/sp
+sales:3544806/sp
+sales oliveira:3544905/sp
+salesopolis:3545001/sp
+salmourao:3545100/sp
+saltinho:3545159/sp
+salto:3545209/sp
+salto grande:3545407/sp
+salto de pirapora:3545308/sp
+sandovalina:3545506/sp
+santa adelia:3545605/sp
+santa albertina:3545704/sp
+santa barbara d'oeste:3545803/sp
+santa branca:3546009/sp
+santa clara d'oeste:3546108/sp
+santa cruz da conceicao:3546207/sp
+santa cruz da esperanca:3546256/sp
+santa cruz das palmeiras:3546306/sp
+santa cruz do rio pardo:3546405/sp
+santa ernestina:3546504/sp
+santa fe do sul:3546603/sp
+santa gertrudes:3546702/sp
+santa isabel:3546801/sp
+santa lucia:3546900/sp
+santa maria da serra:3547007/sp
+santa mercedes:3547106/sp
+santa rita d'oeste:3547403/sp
+santa rita do passa quatro:3547502/sp
+santa rosa de viterbo:3547601/sp
+santa salete:3547650/sp
+santana da ponte pensa:3547205/sp
+santana de parnaiba:3547304/sp
+santo anastacio:3547700/sp
+santo andre:3547809/sp
+santo antonio da alegria:3547908/sp
+santo antonio de posse:3548005/sp
+santo antonio do aracangua:3548054/sp
+santo antonio do jardim:3548104/sp
+santo antonio do pinhal:3548203/sp
+santo expedito:3548302/sp
+santopolis do aguapei:3548401/sp
+santos:3548500/sp
+sao bento do sapucai:3548609/sp
+sao bernardo do campo:3548708/sp
+sao caetano do sul:3548807/sp
+sao carlos:3548906/sp
+sao francisco:3549003/sp
+sao joao da boa vista:3549102/sp
+sao joao das duas pontes:3549201/sp
+sao joao de iracema:3549250/sp
+sao joao do pau d'alho:3549300/sp
+sao joaquim da barra:3549409/sp
+sao jose da bela vista:3549508/sp
+sao jose do barreiro:3549607/sp
+sao jose do rio pardo:3549706/sp
+sao jose do rio preto:3549805/sp
+sao jose dos campos:3549904/sp
+sao lourenco da serra:3549953/sp
+sao luiz do paraitinga:3550001/sp
+sao manuel:3550100/sp
+sao miguel arcanjo:3550209/sp
+sao paulo:3550308/sp
+sao pedro:3550407/sp
+sao pedro do turvo:3550506/sp
+sao roque:3550605/sp
+sao sebastiao:3550704/sp
+sao sebastiao da grama:3550803/sp
+sao simao:3550902/sp
+sao vicente:3551009/sp
+sarapui:3551108/sp
+sarutaia:3551207/sp
+sebastianopolis do sul:3551306/sp
+serra azul:3551405/sp
+serra negra:3551603/sp
+serrana:3551504/sp
+sertaozinho:3551702/sp
+sete barras:3551801/sp
+severinia:3551900/sp
+silveiras:3552007/sp
+socorro:3552106/sp
+sorocaba:3552205/sp
+sud mennucci:3552304/sp
+sumare:3552403/sp
+suzanapolis:3552551/sp
+suzano:3552502/sp
+tabapua:3552601/sp
+tabatinga:3552700/sp
+taboao da serra:3552809/sp
+taciba:3552908/sp
+taguai:3553005/sp
+taiacu:3553104/sp
+taiuva:3553203/sp
+tambau:3553302/sp
+tanabi:3553401/sp
+tapirai:3553500/sp
+tapiratiba:3553609/sp
+taquaral:3553658/sp
+taquaritinga:3553708/sp
+taquarituba:3553807/sp
+taquarivai:3553856/sp
+tarabai:3553906/sp
+taruma:3553955/sp
+tatui:3554003/sp
+taubate:3554102/sp
+tejupa:3554201/sp
+teodoro sampaio:3554300/sp
+terra roxa:3554409/sp
+tiete:3554508/sp
+timburi:3554607/sp
+torre de pedra:3554656/sp
+torrinha:3554706/sp
+trabiju:3554755/sp
+tremembe:3554805/sp
+tres fronteiras:3554904/sp
+tuiuti:3554953/sp
+tupa:3555000/sp
+tupi paulista:3555109/sp
+turiuba:3555208/sp
+turmalina:3555307/sp
+ubarana:3555356/sp
+ubatuba:3555406/sp
+ubirajara:3555505/sp
+uchoa:3555604/sp
+uniao paulista:3555703/sp
+urania:3555802/sp
+uru:3555901/sp
+urupes:3556008/sp
+valentim gentil:3556107/sp
+valinhos:3556206/sp
+valparaiso:3556305/sp
+vargem:3556354/sp
+vargem grande paulista:3556453/sp
+vargem grande do sul:3556404/sp
+varzea paulista:3556503/sp
+vera cruz:3556602/sp
+vinhedo:3556701/sp
+viradouro:3556800/sp
+vista alegre do alto:3556909/sp
+vitoria brasil:3556958/sp
+votorantim:3557006/sp
+votuporanga:3557105/sp
+zacarias:3557154/sp
+amparo do sao francisco:2800100/se
+aquidaba:2800209/se
+aracaju:2800308/se
+araua:2800407/se
+areia branca:2800506/se
+barra dos coqueiros:2800605/se
+boquim:2800670/se
+brejo grande:2800704/se
+campo do brito:2801009/se
+canhoba:2801108/se
+caninde de sao francisco:2801207/se
+capela:2801306/se
+carira:2801405/se
+carmopolis:2801504/se
+cedro de sao joao:2801603/se
+cristinapolis:2801702/se
+cumbe:2801900/se
+divina pastora:2802007/se
+estancia:2802106/se
+feira nova:2802205/se
+frei paulo:2802304/se
+gararu:2802403/se
+general maynard:2802502/se
+gracho cardoso:2802601/se
+ilha das flores:2802700/se
+indiaroba:2802809/se
+itabaiana:2802908/se
+itabaianinha:2803005/se
+itabi:2803104/se
+itaporanga d'ajuda:2803203/se
+japaratuba:2803302/se
+japoata:2803401/se
+lagarto:2803500/se
+laranjeiras:2803609/se
+macambira:2803708/se
+malhada dos bois:2803807/se
+malhador:2803906/se
+maruim:2804003/se
+moita bonita:2804102/se
+monte alegre de sergipe:2804201/se
+muribeca:2804300/se
+neopolis:2804409/se
+nossa senhora aparecida:2804458/se
+nossa senhora da gloria:2804508/se
+nossa senhora das dores:2804607/se
+nossa senhora de lourdes:2804706/se
+nossa senhora do socorro:2804805/se
+pacatuba:2804904/se
+pedra mole:2805000/se
+pedrinhas:2805109/se
+pinhao:2805208/se
+pirambu:2805307/se
+poco redondo:2805406/se
+poco verde:2805505/se
+porto da folha:2805604/se
+propria:2805703/se
+riachao do dantas:2805802/se
+riachuelo:2805901/se
+ribeiropolis:2806008/se
+rosario do catete:2806107/se
+salgado:2806206/se
+santa luzia do itanhy:2806305/se
+santa rosa de lima:2806503/se
+santana do sao francisco:2806404/se
+santo amaro das brotas:2806602/se
+sao cristovao:2806701/se
+sao domingos:2806800/se
+sao francisco:2806909/se
+sao miguel do aleixo:2807006/se
+simao dias:2807105/se
+siriri:2807204/se
+telha:2807303/se
+tobias barreto:2807402/se
+tomar do geru:2807501/se
+umbauba:2807600/se
+abreulandia:1700251/to
+aguiarnopolis:1700301/to
+alianca do tocantins:1700350/to
+almas:1700400/to
+alvorada:1700707/to
+ananas:1701002/to
+angico:1701051/to
+aparecida do rio negro:1701101/to
+aragominas:1701309/to
+araguacema:1701903/to
+araguacu:1702000/to
+araguaina:1702109/to
+araguana:1702158/to
+araguatins:1702208/to
+arapoema:1702307/to
+arraias:1702406/to
+augustinopolis:1702554/to
+aurora do tocantins:1702703/to
+axixa do tocantins:1702901/to
+babaculandia:1703008/to
+bandeirantes do tocantins:1703057/to
+barra do ouro:1703073/to
+barrolandia:1703107/to
+bernardo sayao:1703206/to
+bom jesus do tocantins:1703305/to
+brasilandia do tocantins:1703602/to
+brejinho de nazare:1703701/to
+buriti do tocantins:1703800/to
+cachoeirinha:1703826/to
+campos lindos:1703842/to
+cariri do tocantins:1703867/to
+carmolandia:1703883/to
+carrasco bonito:1703891/to
+caseara:1703909/to
+centenario:1704105/to
+chapada da natividade:1705102/to
+chapada de areia:1704600/to
+colinas do tocantins:1705508/to
+colmeia:1716703/to
+combinado:1705557/to
+conceicao do tocantins:1705607/to
+couto magalhaes:1706001/to
+cristalandia:1706100/to
+crixas do tocantins:1706258/to
+darcinopolis:1706506/to
+dianopolis:1707009/to
+divinopolis do tocantins:1707108/to
+dois irmaos do tocantins:1707207/to
+duere:1707306/to
+esperantina:1707405/to
+fatima:1707553/to
+figueiropolis:1707652/to
+filadelfia:1707702/to
+formoso do araguaia:1708205/to
+fortaleza do tabocao:1708254/to
+goianorte:1708304/to
+goiatins:1709005/to
+guarai:1709302/to
+gurupi:1709500/to
+ipueiras:1709807/to
+itacaja:1710508/to
+itaguatins:1710706/to
+itapiratins:1710904/to
+itapora do tocantins:1711100/to
+jau do tocantins:1711506/to
+juarina:1711803/to
+lagoa da confusao:1711902/to
+lagoa do tocantins:1711951/to
+lajeado:1712009/to
+lavandeira:1712157/to
+lizarda:1712405/to
+luzinopolis:1712454/to
+marianopolis do tocantins:1712504/to
+mateiros:1712702/to
+maurilandia do tocantins:1712801/to
+miracema do tocantins:1713205/to
+miranorte:1713304/to
+monte santo do tocantins:1713700/to
+monte do carmo:1713601/to
+muricilandia:1713957/to
+natividade:1714203/to
+nazare:1714302/to
+nova olinda:1714880/to
+nova rosalandia:1715002/to
+novo acordo:1715101/to
+novo alegre:1715150/to
+novo jardim:1715259/to
+oliveira de fatima:1715507/to
+palmas:1721000/to
+palmeirante:1715705/to
+palmeiras do tocantins:1713809/to
+palmeiropolis:1715754/to
+paraiso do tocantins:1716109/to
+parana:1716208/to
+pau d'arco:1716307/to
+pedro afonso:1716505/to
+peixe:1716604/to
+pequizeiro:1716653/to
+pindorama do tocantins:1717008/to
+piraque:1717206/to
+pium:1717503/to
+ponte alta do bom jesus:1717800/to
+ponte alta do tocantins:1717909/to
+porto alegre do tocantins:1718006/to
+porto nacional:1718204/to
+praia norte:1718303/to
+presidente kennedy:1718402/to
+pugmil:1718451/to
+recursolandia:1718501/to
+riachinho:1718550/to
+rio sono:1718758/to
+rio da conceicao:1718659/to
+rio dos bois:1718709/to
+sampaio:1718808/to
+sandolandia:1718840/to
+santa fe do araguaia:1718865/to
+santa maria do tocantins:1718881/to
+santa rita do tocantins:1718899/to
+santa rosa do tocantins:1718907/to
+santa tereza do tocantins:1719004/to
+santa terezinha do tocantins:1720002/to
+sao bento do tocantins:1720101/to
+sao felix do tocantins:1720150/to
+sao miguel do tocantins:1720200/to
+sao salvador do tocantins:1720259/to
+sao sebastiao do tocantins:1720309/to
+sao valerio:1720499/to
+silvanopolis:1720655/to
+sitio novo do tocantins:1720804/to
+sucupira:1720853/to
+taguatinga:1720903/to
+taipas do tocantins:1720937/to
+talisma:1720978/to
+tocantinia:1721109/to
+tocantinopolis:1721208/to
+tupirama:1721257/to
+tupiratins:1721307/to
+wanderlandia:1722081/to
+xambioa:1722107/to
