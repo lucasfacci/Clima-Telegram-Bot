@@ -38,92 +38,94 @@ def ajuda(update: Update, _: CallbackContext) -> None:
 
 
 def requisicao(update: Update, _: CallbackContext) -> None:
-    data = unidecode(update.message.text)
-    data = data.lower()
+    try:
+        data = unidecode(update.message.text)
+        data = data.lower()
 
-    foundUf = data.find('/')
-    foundDay = data.find('+')
-    day = ''
-    infos = ''
+        foundUf = data.find('/')
+        foundDay = data.find('+')
+        day = ''
+        infos = ''
 
-    if foundUf != -1:
-        city = data[:foundUf]
-        uf = data[foundUf + 1:foundUf + 3]
-        cursor.execute('SELECT geocode FROM city WHERE name = ? AND uf = ?;', (city, uf))
-    elif foundDay != -1:
-        city = data[:foundDay]
-        cursor.execute('SELECT geocode FROM city WHERE name = ?;', (city,))
-    else:
-        cursor.execute('SELECT geocode FROM city WHERE name = ?;', (data,))
+        if foundUf != -1:
+            city = data[:foundUf]
+            uf = data[foundUf + 1:foundUf + 3]
+            cursor.execute('SELECT geocode FROM city WHERE name = ? AND uf = ?;', (city, uf))
+        elif foundDay != -1:
+            city = data[:foundDay]
+            cursor.execute('SELECT geocode FROM city WHERE name = ?;', (city,))
+        else:
+            cursor.execute('SELECT geocode FROM city WHERE name = ?;', (data,))
 
-    if foundDay != -1:
-        day = data[foundDay + 1:foundDay + 2]
-        if day != '1' and day != '2' and day != '3' and day != '4':
-            update.message.reply_text('Só é possível prever o clima de até 4 dias.')
+        if foundDay != -1:
+            day = data[foundDay + 1:foundDay + 2]
+            if day != '1' and day != '2' and day != '3' and day != '4':
+                update.message.reply_text('Só é possível prever o clima de até 4 dias.')
+                return
+
+        geoCodes = cursor.fetchall()
+
+        if len(geoCodes) == 0:
+            update.message.reply_text('A cidade informada não existe ou contêm erro na forma que foi digitada. Segue um exemplo da forma correta: "São Paulo/SP".')
             return
+        elif len(geoCodes) > 1:
+            update.message.reply_text('Especifique também o UF da cidade. Exemplo: "São Paulo/SP".')
+            return
+        else:
+            cursor.execute('SELECT name, uf FROM city WHERE geocode = ?;', (geoCodes[0][0],))
+            city = cursor.fetchone()
 
-    geoCodes = cursor.fetchall()
-
-    if len(geoCodes) == 0:
-        update.message.reply_text('A cidade informada não existe ou contêm erro na forma que foi digitada. Segue um exemplo da forma correta: "São Paulo/SP".')
-        return
-    elif len(geoCodes) > 1:
-        update.message.reply_text('Especifique também o UF da cidade. Exemplo: "São Paulo/SP".')
-        return
-    else:
-        cursor.execute('SELECT name, uf FROM city WHERE geocode = ?;', (geoCodes[0][0],))
-        city = cursor.fetchone()
-
-        if city[1] == 'ac':
-            utc = -5
-        elif city[1] == 'am':
-            if city[0] == 'atalaia do norte' or city[0] == 'benjamin constant' or city[0] == 'boca do acre' or city[0] == 'eirunepe' or city[0] == 'envira' or city[0] == 'guajara' or city[0] == 'ipixuna' or city[0] == 'itamarati' or city[0] == 'jutai' or city[0] == 'labrea' or city[0] == 'pauini' or city[0] == 'sao paulo de olivenca' or city[0] == 'tabatinga':
+            if city[1] == 'ac':
                 utc = -5
-            else:
-                utc = -4
-        elif city[1] == 'rr' or city[1] == 'ro' or city[1] == 'mt' or city[1] == 'ms':
-            utc = -4        
-        elif city[1] == 'ap' or city[1] == 'pa' or city[1] == 'ma' or city[1] == 'to' or city[1] == 'pi' or city[1] == 'ce' or city[1] == 'rn' or city[1] == 'pb' or city[1] == 'pe' or city[1] == 'al' or city[1] == 'se' or city[1] == 'ba' or city[1] == 'go' or city[1] == 'mg' or city[1] == 'es' or city[1] == 'rj' or city[1] == 'sp' or city[1] == 'df' or city[1] == 'pr' or city[1] == 'sc' or city[1] == 'rs':
-            if city[1] == 'pe' and city[0] == 'fernando de noronha':
-                utc = -2
-            else:
-                utc = -3
+            elif city[1] == 'am':
+                if city[0] == 'atalaia do norte' or city[0] == 'benjamin constant' or city[0] == 'boca do acre' or city[0] == 'eirunepe' or city[0] == 'envira' or city[0] == 'guajara' or city[0] == 'ipixuna' or city[0] == 'itamarati' or city[0] == 'jutai' or city[0] == 'labrea' or city[0] == 'pauini' or city[0] == 'sao paulo de olivenca' or city[0] == 'tabatinga':
+                    utc = -5
+                else:
+                    utc = -4
+            elif city[1] == 'rr' or city[1] == 'ro' or city[1] == 'mt' or city[1] == 'ms':
+                utc = -4        
+            elif city[1] == 'ap' or city[1] == 'pa' or city[1] == 'ma' or city[1] == 'to' or city[1] == 'pi' or city[1] == 'ce' or city[1] == 'rn' or city[1] == 'pb' or city[1] == 'pe' or city[1] == 'al' or city[1] == 'se' or city[1] == 'ba' or city[1] == 'go' or city[1] == 'mg' or city[1] == 'es' or city[1] == 'rj' or city[1] == 'sp' or city[1] == 'df' or city[1] == 'pr' or city[1] == 'sc' or city[1] == 'rs':
+                if city[1] == 'pe' and city[0] == 'fernando de noronha':
+                    utc = -2
+                else:
+                    utc = -3
 
-        weather = requests.get('https://apiprevmet3.inmet.gov.br/previsao/{0}'.format(geoCodes[0][0]))
+            weather = requests.get('https://apiprevmet3.inmet.gov.br/previsao/{0}'.format(geoCodes[0][0]))
 
-        dateTimeFunc = datetime.now()
-        difference = timedelta(hours = utc)
-        if day == '' or day == '1':
-            if day == '1':
+            dateTimeFunc = datetime.now()
+            difference = timedelta(hours = utc)
+            if day == '' or day == '1':
+                if day == '1':
+                    dateTimeFunc = dateTimeFunc + timedelta(days=int(day))
+                    timeZone = timezone(difference)
+                    dateTime = dateTimeFunc.astimezone(timeZone)
+                    actualDate = dateTime.strftime('%d/%m/%Y')
+                    actualTime = dateTime.strftime('%H:%M')
+                else:
+                    timeZone = timezone(difference)
+                    dateTime = dateTimeFunc.astimezone(timeZone)
+                    actualDate = dateTime.strftime('%d/%m/%Y')
+                    actualTime = dateTime.strftime('%H:%M')
+
+                if actualTime >= '00:00' and actualTime <= '11:59':
+                    dayTime = 'manha'
+                elif actualTime >= '12:00' and actualTime <= '17:59':
+                    dayTime = 'tarde'
+                elif actualTime >= '18:00' and actualTime <= '23:59':
+                    dayTime = 'noite'
+
+                infos = weather.json()['{0}'.format(geoCodes[0][0])]['{0}'.format(actualDate)]['{0}'.format(dayTime)]
+            else:
                 dateTimeFunc = dateTimeFunc + timedelta(days=int(day))
                 timeZone = timezone(difference)
                 dateTime = dateTimeFunc.astimezone(timeZone)
                 actualDate = dateTime.strftime('%d/%m/%Y')
-                actualTime = dateTime.strftime('%H:%M')
-            else:
-                timeZone = timezone(difference)
-                dateTime = dateTimeFunc.astimezone(timeZone)
-                actualDate = dateTime.strftime('%d/%m/%Y')
-                actualTime = dateTime.strftime('%H:%M')
 
-            if actualTime >= '00:00' and actualTime <= '11:59':
-                dayTime = 'manha'
-            elif actualTime >= '12:00' and actualTime <= '17:59':
-                dayTime = 'tarde'
-            elif actualTime >= '18:00' and actualTime <= '23:59':
-                dayTime = 'noite'
+                infos = weather.json()['{0}'.format(geoCodes[0][0])]['{0}'.format(actualDate)]
 
-            infos = weather.json()['{0}'.format(geoCodes[0][0])]['{0}'.format(actualDate)]['{0}'.format(dayTime)]
-        else:
-            dateTimeFunc = dateTimeFunc + timedelta(days=int(day))
-            timeZone = timezone(difference)
-            dateTime = dateTimeFunc.astimezone(timeZone)
-            actualDate = dateTime.strftime('%d/%m/%Y')
-
-            infos = weather.json()['{0}'.format(geoCodes[0][0])]['{0}'.format(actualDate)]
-
-    update.message.reply_text('{0} / {1}\n\nData: {2}, {3};\n\nResumo: {4};\n\nTemperatura máxima: {5}ºC;\n\nTemperatura mínima: {6}ºC;\n\nIntensidade dos ventos: {7}.\n\n'.format(infos['entidade'], infos['uf'], infos['dia_semana'], actualDate, infos['resumo'], infos['temp_max'], infos['temp_min'], infos['int_vento']))
-
+        update.message.reply_text('{0} / {1}\n\nData: {2}, {3};\n\nResumo: {4};\n\nTemperatura máxima: {5}ºC;\n\nTemperatura mínima: {6}ºC;\n\nIntensidade dos ventos: {7}.\n\n'.format(infos['entidade'], infos['uf'], infos['dia_semana'], actualDate, infos['resumo'], infos['temp_max'], infos['temp_min'], infos['int_vento']))
+    except:
+        update.message.reply_text('O serviço de informação/previsão do clima não está disponível no momento. Tente novamente mais tarde.')
 
 def main() -> None:
     updater = Updater(os.environ['TOKEN'])
