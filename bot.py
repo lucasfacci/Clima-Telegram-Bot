@@ -17,10 +17,10 @@ conn = sqlite3.connect("database.db", check_same_thread=False)
 cursor = conn.cursor()
 
 
-def clima(update: Update, _: CallbackContext) -> None:
+def tempo(update: Update, _: CallbackContext) -> None:
     user = update.effective_user
     update.message.reply_markdown_v2(
-        fr'Digite o nome da cidade que deseja obter informações sobre o clima\.',
+        fr'Digite o nome da cidade que deseja obter informações sobre o tempo\.',
         reply_markup=ForceReply(selective=True),
     )
 
@@ -29,9 +29,9 @@ def ajuda(update: Update, _: CallbackContext) -> None:
     update.message.reply_text(
         'Comandos:\n\n'
         '/ajuda - Exibe os comandos disponíveis e suas funções.\n'
-        '/clima - Solicita o nome de uma cidade para exibir informações sobre o clima.\n\n'
+        '/tempo - Solicita o nome de uma cidade para exibir informações sobre o tempo.\n\n'
         'Informações gerais:\n\n'
-        '1- Basta responder a qualquer mensagem do bot com o nome de uma cidade para obter informações a respeito do clima.\n'
+        '1- Basta responder qualquer mensagem do bot com o nome de uma cidade para obter informações sobre o tempo.\n'
         '2- Se houver mais de uma cidade no Brasil com o mesmo nome da cidade que deseja obter informações, especifique também o estado. Exemplo: "São Paulo/SP".\n'
         '3- Se quiser obter a previsão do tempo de um dia posterior, basta escrever o nome da cidade + a quantidade de dias. Exemplo: "São Paulo+1 ou São Paulo/SP+1".\n'
     )
@@ -60,7 +60,7 @@ def requisicao(update: Update, _: CallbackContext) -> None:
         if foundDay != -1:
             day = data[foundDay + 1:foundDay + 2]
             if day != '1' and day != '2' and day != '3' and day != '4':
-                update.message.reply_text('Só é possível prever o clima de até 4 dias.')
+                update.message.reply_text('Só é possível prever o tempo de até 4 dias.')
                 return
 
         geoCodes = cursor.fetchall()
@@ -125,14 +125,14 @@ def requisicao(update: Update, _: CallbackContext) -> None:
 
         update.message.reply_text('{0} / {1}\n\nData: {2}, {3};\n\nResumo: {4};\n\nTemperatura máxima: {5}ºC;\n\nTemperatura mínima: {6}ºC;\n\nIntensidade dos ventos: {7}.\n\n'.format(infos['entidade'], infos['uf'], infos['dia_semana'], actualDate, infos['resumo'], infos['temp_max'], infos['temp_min'], infos['int_vento']))
     except:
-        update.message.reply_text('O serviço de informação/previsão do clima não está disponível no momento. Tente novamente mais tarde.')
+        update.message.reply_text('O serviço de informação/previsão do tempo não está disponível no momento. Tente novamente mais tarde.')
 
 def main() -> None:
     updater = Updater(os.environ['TOKEN'])
 
     dispatcher = updater.dispatcher
 
-    dispatcher.add_handler(CommandHandler('clima', clima))
+    dispatcher.add_handler(CommandHandler('tempo', tempo))
     dispatcher.add_handler(CommandHandler('ajuda', ajuda))
 
     dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, requisicao))
